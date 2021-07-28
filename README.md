@@ -1,9 +1,7 @@
 # MICROPROCESSOR LAB
   MP Lab [SEMESTER V]
 
-## Microprocessor Lab
-
-  >Experiments
+## Experiments
 
   - MP Lab [Experiment - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Experiments/Amey_B-50_MP_Experiment-1.pdf)
   - MP Lab [Experiment - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Experiments/Amey_B-50_MP_Experiment-2.pdf)
@@ -16,24 +14,22 @@
   - MP Lab [Experiment - 9](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Experiments/Amey_B-50_MP_Experiment-9.pdf)
   - MP Lab [Experiment - 10](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Experiments/Amey_B-50_MP_Experiment-10.pdf)
 
-
-  >Quizzes
+## Quizzes
 
   - Microprocessor [Quiz - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Quizzes/Quiz%20Microprocessor%20-%201.pdf)
   - Microprocessor [Quiz - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Quizzes/Quiz%20Microprocessor%20-%202.pdf)
   - Microprocessor [Quiz - 3](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Quizzes/Quiz%20Microprocessor%20-%203.pdf)
 
-
-  >Assignments
+## Assignments
 
   - MP [Assignment - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Assignments/Amey_B-50_MP_Assignment-1.pdf)
   - MP [Assignment - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Assignments/Amey_B-50_MP_Assignment-2.pdf)
 
-
-  >Classwork
+## Classwork
 
   - MP [Class work | 20-10-2020](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf)
   - MP [Class work | 10-11-2020](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf)
 
+## Submission Report
 
-  >Submission Report | [File](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Submission%20Report/Amey_B-50_MP_Submission_Report.pdf)
+  - [File](https://github.com/Amey-Thakur/MICROPROCESSOR-LAB/blob/main/Submission%20Report/Amey_B-50_MP_Submission_Report.pdf)
