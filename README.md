@@ -43,7 +43,7 @@
 
 ## Online Exam
 
- - MP [UT-2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Online%20Exam/MP%20UT-2.png)
+ - MP [UT - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Online%20Exam/MP%20UT-2.png)
 
  - Online Test [All Subjects - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf)
  - Online Test [All Subjects - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf)
