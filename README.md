@@ -25,6 +25,8 @@
 
 ## Experiments
  
+ >**[8086 ASSEMBLY LANGUAGE PROGRAMS](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) - GITHUB REPOSITORY**
+ 
  - MP Lab [Experiment - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-1/Amey_B-50_MP_Experiment-1.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/MP%20Lab/Experiment-1/SOURCE%20CODE)
  
  - MP Lab [Experiment - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-2/Amey_B-50_MP_Experiment-2.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-2/SOURCE%20CODE/Hex_to_BCD_%26_BCD_to_Hex.asm)
