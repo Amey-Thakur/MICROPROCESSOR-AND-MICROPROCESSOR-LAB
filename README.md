@@ -272,7 +272,7 @@ Microprocessor-specific quizzes conducted during the online course:
 | Microprocessor Quiz - 3 | August 29, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%203.pdf) |
 | Microprocessor Quiz - 4 | September 05, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%204.pdf) |
 | Microprocessor Quiz - 5 | September 12, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%205.pdf) |
-| Microprocessor Quiz - 6 | September 19, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%206.pdf) |
+| Microprocessor Quiz - 6 | September 26, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%206.pdf) |
 
 ---
 
