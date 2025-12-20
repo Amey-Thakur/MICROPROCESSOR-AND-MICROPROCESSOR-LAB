@@ -27,6 +27,11 @@
 
 ---
 
+> [!TIP]
+> **Additional Learning Resource**: For more 8086 assembly programs beyond these experiments, check out my [8086 Assembly Language Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) repository—50+ programs I developed during this course for self-learning, covering arithmetic, conversions, sorting, searching, and more.
+
+---
+
 <!-- EXPERIMENT 1 -->
 ## 🔢 Experiment 1: Basic Arithmetic (8 Programs)
 

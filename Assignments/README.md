@@ -38,7 +38,7 @@ These assignments comprehensively cover the following topics:
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#assignments)** &nbsp;·&nbsp; **[🏠 Back to Main Repository](../)** &nbsp;·&nbsp; **[🧪 Microprocessor Lab](../Microprocessor%20Lab/)**
+  **[⬆ Back to Top](#assignments)** &nbsp;·&nbsp; **[🏠 Back to Main Repository](../)** &nbsp;·&nbsp; **[🧪 Microprocessor Lab](../Microprocessor%20Lab/)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
 </div>
 
