@@ -24,7 +24,7 @@ The practical component is designed to provide hands-on experience with:
 | **Exp 7** | Mathematical Op | Iterative calculation of the Factorial of a given number. | Assembly | [View](Experiment-7/Source%20Code/Factorial_Of_A_Number.asm) |
 | **Exp 8** | Macro Utilization | Demonstrating modularity and code reuse using 8086 Macros for string display. | Assembly | [View](Experiment-8/Source%20Code/Display_String_Using_Macro.asm) |
 | **Exp 9** | Array Splitter | Using mixed C and Assembly language to separate even and odd numbers from a dataset. | C & ASM | [View](Experiment-9/Source%20Code/Separate_Even_And_Odd_Numbers.c) |
-| **Exp 10**| Logical Shifting | performing bitwise left and right shifts on numerical values using mixed C and Assembly. | C & ASM | [View](Experiment-10/Source%20Code/Shift_Number_Multiple_Times.c) |
+| **Exp 10**| Logical Shifting | Performing bitwise left and right shifts on numerical values using mixed C and Assembly. | C & ASM | [View](Experiment-10/Source%20Code/Shift_Number_Multiple_Times.c) |
 
 ## Documentation
 
