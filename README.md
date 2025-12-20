@@ -99,8 +99,8 @@ Academic assignments for comprehensive learning and practice:
 
 | Resource | Date | Description |
 |:---|:---:|:---|
-| 📝 [Assignment 1](Assignments/Amey_B-50_MP_Assignment-1.pdf) | 2020 | Architecture and Instruction Set Fundamentals |
-| 📝 [Assignment 2](Assignments/Amey_B-50_MP_Assignment-2.pdf) | 2020 | Interfacing and Advanced Microprocessors |
+| 📝 [Assignment 1](Assignments/Amey_B-50_MP_Assignment-1.pdf) | 26-11-2020 | Architecture and Instruction Set Fundamentals |
+| 📝 [Assignment 2](Assignments/Amey_B-50_MP_Assignment-2.pdf) | 26-11-2020 | Interfacing and Advanced Microprocessors |
 
 ---
 
