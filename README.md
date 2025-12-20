@@ -5,7 +5,7 @@
 
   # Microprocessor and Microprocessor Lab
 
-  ### CSC502 & CSL502 · Semester V · Computer Engineering
+  ### CSC501 & CSL501 · Semester V · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
@@ -25,7 +25,7 @@
 <!-- OVERVIEW -->
 ## Overview
 
-Microprocessor (CSC502) and Microprocessor Lab (CSL502) are core subjects in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of the 8086 microprocessor architecture, its instruction set, peripheral interfacing, and the principles of low-level system programming.
+Microprocessor (CSC501) and Microprocessor Lab (CSL501) are core subjects in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of the 8086 microprocessor architecture, its instruction set, peripheral interfacing, and the principles of low-level system programming.
 
 ### Course Topics
 
@@ -124,7 +124,7 @@ Lab classwork sessions conducted during the online course:
 <!-- LABORATORY -->
 ## Microprocessor Laboratory
 
-The laboratory component (CSL502) focuses on hands-on implementation of various 8086 assembly language programs using TASM/MASM, providing practical experience in low-level programming and data manipulation.
+The laboratory component (CSL501) focuses on hands-on implementation of various 8086 assembly language programs using TASM/MASM, providing practical experience in low-level programming and data manipulation.
 
 <div align="center">
 
