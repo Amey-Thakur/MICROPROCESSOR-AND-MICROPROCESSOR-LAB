@@ -3,7 +3,7 @@
 
   # Assignments
 
-  ### CSC502 · Microprocessor · Semester V
+  ### CSC501 · Microprocessor · Semester V
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
   [![Assignments](https://img.shields.io/badge/Assignments-2-green.svg)](#assignments)
@@ -48,7 +48,7 @@ These assignments comprehensively cover the following topics:
 
   ### [Microprocessor and Microprocessor Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB)
 
-  **CSC502 & CSL502 · Semester V · Computer Engineering**
+  **CSC501 & CSL501 · Semester V · Computer Engineering**
 
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 

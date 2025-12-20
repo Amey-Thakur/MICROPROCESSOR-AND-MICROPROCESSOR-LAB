@@ -3,7 +3,7 @@
 
   # Microprocessor Lab
 
-  ### CSL502 · Semester V · Computer Engineering
+  ### CSL501 · Semester V · Computer Engineering
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
   [![Experiments](https://img.shields.io/badge/Experiments-10-green.svg)](#quick-navigation)
@@ -215,7 +215,7 @@ filename.exe
 
   ### [Microprocessor and Microprocessor Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB)
 
-  **CSC502 & CSL502 · Semester V · Computer Engineering**
+  **CSC501 & CSL501 · Semester V · Computer Engineering**
 
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
