@@ -130,7 +130,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of various 
 
   [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-brightgreen.svg)](Microprocessor%20Lab/)
   [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-blue.svg)](Microprocessor%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Verified-orange.svg)](Microprocessor%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-orange.svg)](Microprocessor%20Lab/)
 
   **[📂 Browse All Experiments](Microprocessor%20Lab/)**
 
