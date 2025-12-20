@@ -138,18 +138,18 @@ The laboratory component (CSL502) focuses on hands-on implementation of various 
 
 ### Laboratory Experiments
 
-| Experiment | Topic | Objective | View |
-|:---|:---|:---|:-:|
-| **Experiment 1** | Basic Arithmetic | Addition, Subtraction, Multiplication, Division | [📂](Microprocessor%20Lab/Experiment-1/) |
-| **Experiment 2** | Code Conversions | Hex to BCD and BCD to Hex | [📂](Microprocessor%20Lab/Experiment-2/) |
-| **Experiment 3** | String Handling | Length of an Input String | [📂](Microprocessor%20Lab/Experiment-3/) |
-| **Experiment 4** | Sorting | Ascending and Descending sorting | [📂](Microprocessor%20Lab/Experiment-4/) |
-| **Experiment 5** | Array Search | Finding Minimum Number in an Array | [📂](Microprocessor%20Lab/Experiment-5/) |
-| **Experiment 6** | System Interfacing | Display Current System Time | [📂](Microprocessor%20Lab/Experiment-6/) |
-| **Experiment 7** | Mathematical | Factorial of a Number | [📂](Microprocessor%20Lab/Experiment-7/) |
-| **Experiment 8** | Macros | Display String using Macros | [📂](Microprocessor%20Lab/Experiment-8/) |
-| **Experiment 9** | Array Split | Separate Even and Odd Numbers (Mixed C/ASM) | [📂](Microprocessor%20Lab/Experiment-9/) |
-| **Experiment 10**| Logical Shift | Shift Number Multiple Times (Mixed C/ASM) | [📂](Microprocessor%20Lab/Experiment-10/) |
+| Experiment | Topic | Objective | Due Date | Marks | View |
+|:---|:---|:---|:---:|:---:|:-:|
+| **Experiment 1** | Basic Arithmetic | Addition, Subtraction, Multiplication, Division | September 13, 2020 | 09/10 | [📂](Microprocessor%20Lab/Experiment-1/) |
+| **Experiment 2** | Code Conversions | Hex to BCD and BCD to Hex | September 13, 2020 | 09/10 | [📂](Microprocessor%20Lab/Experiment-2/) |
+| **Experiment 3** | String Handling | Length of an Input String | September 13, 2020 | 09/10 | [📂](Microprocessor%20Lab/Experiment-3/) |
+| **Experiment 4** | Sorting | Ascending and Descending sorting | September 20, 2020 | 09/10 | [📂](Microprocessor%20Lab/Experiment-4/) |
+| **Experiment 5** | Array Search | Finding Minimum Number in an Array | October 10, 2020 | 10/10 | [📂](Microprocessor%20Lab/Experiment-5/) |
+| **Experiment 6** | System Interfacing | Display Current System Time | TBD | TBD | [📂](Microprocessor%20Lab/Experiment-6/) |
+| **Experiment 7** | Mathematical | Factorial of a Number | TBD | TBD | [📂](Microprocessor%20Lab/Experiment-7/) |
+| **Experiment 8** | Macros | Display String using Macros | TBD | TBD | [📂](Microprocessor%20Lab/Experiment-8/) |
+| **Experiment 9** | Array Split | Separate Even and Odd Numbers (Mixed C/ASM) | TBD | TBD | [📂](Microprocessor%20Lab/Experiment-9/) |
+| **Experiment 10**| Logical Shift | Shift Number Multiple Times (Mixed C/ASM) | TBD | TBD | [📂](Microprocessor%20Lab/Experiment-10/) |
 
 ### Program Details
 
