@@ -409,7 +409,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[🧪 Microprocessor Lab](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[📄 Assignments](Assignments/)** &nbsp;·&nbsp; **[🧠 Quizzes](Quizzes/)** &nbsp;·&nbsp; **[💻 Online Exam](Online%20Exam/)** &nbsp;·&nbsp; **[🎓 Semester Exam](Semester%20Exam/)** &nbsp;·&nbsp; **[📄 Question Papers](Question%20Papers/)**
+  **[🧪 Microprocessor Lab](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[📄 Assignments](Assignments/)**
 
 </div>
 
