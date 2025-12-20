@@ -116,8 +116,8 @@ Lab classwork sessions conducted during the online course:
 
 | Resource | Date | Description |
 |:---|:---:|:---|
-| 📝 [Classwork 1](Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf) | 20-10-2020 | Initial assembly logic and program structuring |
-| 📝 [Classwork 2](Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf) | 10-11-2020 | Data manipulation and register-level exercises |
+| 📝 [Classwork 1](Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf) | October 20, 2020 | Initial assembly logic and program structuring |
+| 📝 [Classwork 2](Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf) | November 10, 2020 | Data manipulation and register-level exercises |
 
 ---
 
