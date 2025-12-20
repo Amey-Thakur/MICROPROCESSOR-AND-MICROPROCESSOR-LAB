@@ -303,9 +303,9 @@ Microprocessor-specific quizzes conducted during the online course:
 
 Final semester examination submission:
 
-| Resource | Description |
-|:---|:---|
-| 📄 [MP Answer Sheet](Semester%20Exam/51112146_MP_Q.2&Q.3.pdf) | Final Semester Exam Submission (Q.2 & Q.3) |
+| Resource | Date | Description |
+|:---|:---:|:---|
+| 📄 [MP Answer Sheet](Semester%20Exam/51112146_MP_Q.2&Q.3.pdf) | January 07, 2021 | Final Semester Exam Submission (Q.2 & Q.3) |
 
 ---
 
