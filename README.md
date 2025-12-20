@@ -65,7 +65,7 @@ This collection includes **9 comprehensive reference materials** covering all ma
 | # | Resource | Focus Area |
 |:-:|:---|:---|
 | 1 | [MP Techmax](Reference%20Books/MP%20Techmax.pdf) | Complete syllabus coverage |
-| 2 | [MP Notes](Reference%20Books/microprocessor%20notes.pdf) | Comprehensive lecture notes |
+| 2 | [MP Notes](Reference%20Books/microprocessor%20notes.pdf) | Notes by Tutorials Point |
 | 3 | [Bharat Acharya](Reference%20Books/Bharat%20Acharya.pdf) | Visual and conceptual architecture notes |
 | 4 | [Intel Book](Reference%20Books/Intel%20Book.pdf) | Official architecture references |
 | 5 | [MP Easy Solutions](Reference%20Books/Microprocessor%20Easy%20Solutions.pdf) | Solved questions and exam-oriented summaries |
