@@ -19,34 +19,34 @@
 
 ## Classwork
  
- - MP [Class work | 20-10-2020](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf)
+ - MP [Classwork | 20-10-2020](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf)
  
- - MP [Class work | 10-11-2020](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf)
+ - MP [Classwork | 10-11-2020](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf)
 
 
 ## Experiments
  
  >**[8086 ASSEMBLY LANGUAGE PROGRAMS](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) - GITHUB REPOSITORY**
  
- - MP Lab [Experiment - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-1/Amey_B-50_MP_Experiment-1.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/MP%20Lab/Experiment-1/SOURCE%20CODE)
+ - Microprocessor Lab [Experiment - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-1/Amey_B-50_MP_Experiment-1.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/Microprocessor%20Lab/Experiment-1/SOURCE%20CODE)
  
- - MP Lab [Experiment - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-2/Amey_B-50_MP_Experiment-2.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-2/SOURCE%20CODE/Hex_to_BCD_%26_BCD_to_Hex.asm)
+ - Microprocessor Lab [Experiment - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-2/Amey_B-50_MP_Experiment-2.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-2/SOURCE%20CODE/Hex_to_BCD_%26_BCD_to_Hex.asm)
  
- - MP Lab [Experiment - 3](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-3/Amey_B-50_MP_Experiment-3.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-3/SOURCE%20CODE/length_of_an_input_string.asm)
+ - Microprocessor Lab [Experiment - 3](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-3/Amey_B-50_MP_Experiment-3.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-3/SOURCE%20CODE/length_of_an_input_string.asm)
  
- - MP Lab [Experiment - 4](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-4/Amey_B-50_MP_Experiment-4.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/MP%20Lab/Experiment-4/SOURCE%20CODE)
+ - Microprocessor Lab [Experiment - 4](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-4/Amey_B-50_MP_Experiment-4.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/Microprocessor%20Lab/Experiment-4/SOURCE%20CODE)
  
- - MP Lab [Experiment - 5](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-5/Amey_B-50_MP_Experiment-5.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-5/SOURCE%20CODE/Input_to_find_Minimum_number.asm)
+ - Microprocessor Lab [Experiment - 5](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-5/Amey_B-50_MP_Experiment-5.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-5/SOURCE%20CODE/Input_to_find_Minimum_number.asm)
  
- - MP Lab [Experiment - 6](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-6/Amey_B-50_MP_Experiment-6.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-6/SOURCE%20CODE/Input_to_Display_System_Time.asm)
+ - Microprocessor Lab [Experiment - 6](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-6/Amey_B-50_MP_Experiment-6.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-6/SOURCE%20CODE/Input_to_Display_System_Time.asm)
  
- - MP Lab [Experiment - 7](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-7/Amey_B-50_MP_Experiment-7.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-7/SOURCE%20CODE/Input_to_find_factorial_of_a_number.asm)
+ - Microprocessor Lab [Experiment - 7](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-7/Amey_B-50_MP_Experiment-7.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-7/SOURCE%20CODE/Input_to_find_factorial_of_a_number.asm)
  
- - MP Lab [Experiment - 8](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-8/Amey_B-50_MP_Experiment-8.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-8/SOURCE%20CODE/display_string_using_a_macro.asm)
+ - Microprocessor Lab [Experiment - 8](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-8/Amey_B-50_MP_Experiment-8.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-8/SOURCE%20CODE/display_string_using_a_macro.asm)
  
- - MP Lab [Experiment - 9](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-9/Amey_B-50_MP_Experiment-9.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-9/SOURCE%20CODE/Mixed%20language%20to%20separate%20EVEN%20and%20ODD%20number%20in%20the%20array.c)
+ - Microprocessor Lab [Experiment - 9](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-9/Amey_B-50_MP_Experiment-9.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-9/SOURCE%20CODE/Mixed%20language%20to%20separate%20EVEN%20and%20ODD%20number%20in%20the%20array.c)
  
- - MP Lab [Experiment - 10](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-10/Amey_B-50_MP_Experiment-10.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/MP%20Lab/Experiment-10/SOURCE%20CODE/Mixed%20program%20to%20shift%20a%20number%20given%20no%20of%20times.c)
+ - Microprocessor Lab [Experiment - 10](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-10/Amey_B-50_MP_Experiment-10.pdf) | [SOURCE CODE](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-10/SOURCE%20CODE/Mixed%20program%20to%20shift%20a%20number%20given%20no%20of%20times.c)
 
 
 ## Quizzes
@@ -81,7 +81,7 @@
 
 ## Semester Exam
  
- - MP [Answersheet](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Semester%20Exam/51112146_MP_Q.2%26Q.3.pdf)
+ - MP [Answer Sheet](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Semester%20Exam/51112146_MP_Q.2%26Q.3.pdf)
 
 
 ## Question Papers
@@ -95,6 +95,6 @@
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 5th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Subject as a part of the 5th Semester of Engineering @ University of Mumbai 👈🏻 </b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING'> ✌🏻 Back To Engineering ✌🏻 </a></p>
