@@ -346,7 +346,7 @@ Comprehensive submission documentation for the Microprocessor course:
 |:---:|:---|:---:|
 | 1 | Experiments (1 to 10) | 2 |
 | 2 | Assignments (1 & 2) | 8 |
-| 3 | Quizzes (1 to 6) | 9 |
+| 3 | Quizzes (1 to 7) | 9 |
 | 4 | Course Exit Survey | 15 |
 | 5 | Lab Exit Survey | 15 |
 
