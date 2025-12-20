@@ -16,7 +16,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [📄 Online Exam](#online-exam) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [📋 Classwork](#classwork) &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [� Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📄 Question Papers](#question-papers) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -84,8 +84,6 @@ Study materials and planning resources for effective exam preparation:
 |:---|:---|
 | 📝 [Syllabus Breakdown](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf) | Detailed module-wise syllabus notes |
 | 📊 [Syllabus (Full)](Syllabus/MU%20COMP%20TE%20BE.pdf) | Official University of Mumbai curriculum |
-| 🎯 [Question Papers](Question%20Papers/) | Previous year academic papers (2018-2019) |
-| 🏆 [Submission Report](Submission%20Report/Amey_B-50_MP_Submission_Report.pdf) | Final laboratory completion record |
 
 ---
 
@@ -103,6 +101,23 @@ Academic assignments for comprehensive learning and practice:
 |:---|:---|
 | 📝 [Assignment 1](Assignments/Amey_B-50_MP_Assignment-1.pdf) | Architecture and Instruction Set Fundamentals |
 | 📝 [Assignment 2](Assignments/Amey_B-50_MP_Assignment-2.pdf) | Interfacing and Advanced Microprocessors |
+
+---
+
+### Classwork
+
+Lab classwork sessions conducted during the online course:
+
+<div align="center">
+
+**[📂 Browse All Classwork](Classwork/)**
+
+</div>
+
+| Resource | Date | Description |
+|:---|:---:|:---|
+| 📝 [Classwork 1](Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf) | 20-10-2020 | Initial assembly logic and program structuring |
+| 📝 [Classwork 2](Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf) | 10-11-2020 | Data manipulation and register-level exercises |
 
 ---
 
@@ -238,20 +253,89 @@ The laboratory component (CSL502) focuses on hands-on implementation of various 
 
 ---
 
+<!-- QUIZZES -->
+## Quizzes
+
+Microprocessor-specific quizzes conducted during the online course:
+
+<div align="center">
+
+**[📂 Browse All Quizzes](Quizzes/)**
+
+</div>
+
+| Quiz | Resource |
+|:---|:-:|
+| Microprocessor Quiz | [📄](Quizzes/Quiz%20Microprocessor.pdf) |
+| Microprocessor Quiz - 1 | [📄](Quizzes/Quiz%20Microprocessor%20-%201.pdf) |
+| Microprocessor Quiz - 2 | [📄](Quizzes/Quiz%20Microprocessor%20-%202.pdf) |
+| Microprocessor Quiz - 3 | [📄](Quizzes/Quiz%20Microprocessor%20-%203.pdf) |
+| Microprocessor Quiz - 4 | [📄](Quizzes/Quiz%20Microprocessor%20-%204.pdf) |
+| Microprocessor Quiz - 5 | [📄](Quizzes/Quiz%20Microprocessor%20-%205.pdf) |
+| Microprocessor Quiz - 6 | [📄](Quizzes/Quiz%20Microprocessor%20-%206.pdf) |
+
+---
+
 <!-- ONLINE EXAM -->
 ## Online Exam
 
 > [!IMPORTANT]
-> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2020. Due to the transition to online learning, examinations and assessments were conducted in a digital format. 
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2020. All examinations and assessments were conducted in a digital format.
 
-### Online Assessments & Quizzes
+<div align="center">
 
-| Resource | Description | Date / Focus |
-|:---|:---|:---|
-| 📝 [Online Test 1-4](Online%20Exam/) | Series of collective subject online tests | 2020-2021 |
-| 📊 [MP UT-2](Online%20Exam/MP%20UT-2.png) | Unit Test 2 Assessment | 2020 |
-| 🧠 [Quizzes](Quizzes/) | Series of 7 Microprocessor specific quizzes | [📂 Browse](Quizzes/) |
-| 🎓 [Semester Exam](Semester%20Exam/51112146_MP_Q.2&Q.3.pdf) | Final Semester Exam Submission (Digital) | 2020 |
+**[📂 Browse All Online Tests](Online%20Exam/)**
+
+</div>
+
+| Resource | Description |
+|:---|:---|
+| 📊 [MP UT-2](Online%20Exam/MP%20UT-2.png) | Unit Test 2 Assessment |
+| 📄 [Online Test - All Subjects 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | Collective subject online test |
+| 📄 [Online Test - All Subjects 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | Collective subject online test |
+| 📄 [Online Test - All Subjects 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | Collective subject online test |
+| 📄 [Online Test - All Subjects 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | Collective subject online test |
+
+---
+
+<!-- SEMESTER EXAM -->
+## Semester Exam
+
+Final semester examination submission:
+
+| Resource | Description |
+|:---|:---|
+| 📄 [MP Answer Sheet](Semester%20Exam/51112146_MP_Q.2&Q.3.pdf) | Final Semester Exam Submission (Q.2 & Q.3) |
+
+---
+
+<!-- QUESTION PAPERS -->
+## Question Papers
+
+Previous year university question papers:
+
+<div align="center">
+
+**[📂 Browse All Question Papers](Question%20Papers/)**
+
+</div>
+
+| Exam Session | Syllabus | Resource |
+|:---|:---:|:-:|
+| December 2018 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_MP-CBCGS_DEC18.pdf) |
+| May 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_MP-CBCGS_MAY19.pdf) |
+| December 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_MP-CBCGS_DEC19.pdf) |
+
+---
+
+<!-- SUBMISSION REPORT -->
+## Submission Report
+
+Final laboratory submission documentation:
+
+| Resource | Description |
+|:---|:---|
+| 📄 [MP Submission Report](Submission%20Report/Amey_B-50_MP_Submission_Report.pdf) | Complete record of all experiments, assignments, and classwork |
 
 ---
 
@@ -311,11 +395,11 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#microprocessor-and-microprocessor-lab)** &nbsp;·&nbsp; **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [📄 Online Exam](#online-exam) &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏 Acknowledgments](#acknowledgments)**
+  **[⬆ Back to Top](#microprocessor-and-microprocessor-lab)** &nbsp;·&nbsp; **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[📋 Classwork](#classwork)** &nbsp;·&nbsp; **[🧪 Laboratory](#microprocessor-laboratory)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[� Online Exam](#online-exam)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📄 Question Papers](#question-papers)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏 Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[🧪 Microprocessor Laboratory](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[📄 Assignments](Assignments/)** &nbsp;·&nbsp; **[🧠 Multiple Quizzes](Quizzes/)**
+  **[🧪 Microprocessor Laboratory](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[📄 Assignments](Assignments/)** &nbsp;·&nbsp; **[🧠 Quizzes](Quizzes/)** &nbsp;·&nbsp; **[📄 Question Papers](Question%20Papers/)**
 
 </div>
 
