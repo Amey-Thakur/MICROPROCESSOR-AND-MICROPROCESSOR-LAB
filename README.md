@@ -136,6 +136,9 @@ The laboratory component (CSL502) focuses on hands-on implementation of various 
 
 </div>
 
+> [!TIP]
+> **Additional Learning Resource**: The [8086 Assembly Language Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) repository contains 50+ programs I developed during this course for self-learning. It covers arithmetic operations, conversions, sorting, searching, expressions, procedures, and more—a comprehensive practice collection for mastering 8086 assembly programming.
+
 ### Laboratory Experiments
 
 | Experiment | Topic | Objective | Due Date | Marks | View |
