@@ -79,8 +79,8 @@ Implementation of Bubble Sort algorithm for array organization.
 
 | # | Program | Algorithm | Description |
 |:---|:---|:---|:---|
-| 1 | [Sorting_In_Ascending_Order.asm](Experiment-4/Source%20Code/Sorting_In_Ascending_Order.asm) | Bubble Sort | Sort array elements in ascending order |
-| 2 | [Sorting_In_Descending_Order.asm](Experiment-4/Source%20Code/Sorting_In_Descending_Order.asm) | Bubble Sort | Sort array elements in descending order |
+| 1 | [Ascending_Order_Sorting.asm](Experiment-4/Source%20Code/Ascending_Order_Sorting.asm) | Bubble Sort | Sort array elements in ascending order |
+| 2 | [Descending_Order_Sorting.asm](Experiment-4/Source%20Code/Descending_Order_Sorting.asm) | Bubble Sort | Sort array elements in descending order |
 
 ---
 
