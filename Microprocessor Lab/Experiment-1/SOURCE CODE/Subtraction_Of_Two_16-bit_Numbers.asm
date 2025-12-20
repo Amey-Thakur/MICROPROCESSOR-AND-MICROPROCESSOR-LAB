@@ -1,27 +1,25 @@
 ; -------------------------------------------------------------------------------------------------
 ; AUTHOR      : Amey Thakur
 ; REPOSITORY  : https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB
-; DESCRIPTION : 8086 Assembly program to perform 8-bit multiplication.
+; DESCRIPTION : 8086 Assembly program to perform 16-bit subtraction.
 ; -------------------------------------------------------------------------------------------------
 
 data segment
-	a db 02h       ; Define 8-bit multiplicand 'a'
-	b db 04h       ; Define 8-bit multiplier 'b'
+	a dw 9A88h     ; Define 16-bit minuend 'a'
+	b dw 8765h     ; Define 16-bit subtrahend 'b'
 	c dw ?         ; Reserve 16-bit word for the result
 data ends
 
 code segment
 assume cs:code, ds:data
-start:
+	start:
 	mov ax, data   ; Initialize Data Segment
 	mov ds, ax
 	
-	mov ax, 0000h  ; Clear AX
-	mov bx, 0000h  ; Clear BX
-	mov al, a      ; Load 'a' into AL
-	mov bl, b      ; Load 'b' into BL
-	mul b          ; Multiply AL by 'b' (AX = AL * 'b')
-	mov c, ax      ; Store the 16-bit result (AX) in 'c'
+	mov ax, a      ; Move value from 'a' into AX register
+	mov bx, b      ; Move value from 'b' into BX register
+	sub ax, bx     ; Subtract BX from AX (AX = AX - BX)
+	mov c, ax      ; Store the difference in 'c'
 	
 	int 3          ; Breakpoint interrupt
 	code ends
