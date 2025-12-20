@@ -274,6 +274,9 @@ Use these resources as reference materials for understanding assembly code, arch
 **For Educators**  
 These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
 
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
+
 ---
 
 <!-- LICENSE -->
