@@ -1,37 +1,217 @@
-# Microprocessor Laboratory
+<!-- HEADER -->
+<div align="center">
 
-This directory contains the complete record of experiments performed as part of the **Microprocessor Laboratory (CSL502)** course. Each experiment focuses on a specific aspect of the Intel 8086 microprocessor, implemented primarily in Assembly Language.
+  # Microprocessor Lab
 
-## Laboratory Overview
+  ### CSL502 · Semester V · Computer Engineering
 
-The practical component is designed to provide hands-on experience with:
-- 8086 Instruction Set and Architecture.
-- Data manipulation and arithmetic operations.
-- Control flow, loops, and decision-making in Assembly.
-- String handling and system services.
-- Interfacing with C for higher-level logic.
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![Experiments](https://img.shields.io/badge/Experiments-10-green.svg)](#quick-navigation)
+  [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-orange.svg)](.)
 
-## Experiment List
+  **A comprehensive collection of 10 experiments covering Intel 8086 microprocessor programming including arithmetic operations, string handling, sorting algorithms, system interfacing, and mixed C/Assembly programming.**
 
-| Experiment | Title | Description | Language | Source Code |
-|:---|:---|:---|:---:|:---:|
-| **Exp 1** | Basic Arithmetic | Implementation of Addition, Subtraction, Multiplication, and Division for both 8-bit and 16-bit numbers. | Assembly | [📂](Experiment-1/Source%20Code/) |
-| **Exp 2** | Code Conversions | Menu-driven program for Hexadecimal to BCD and BCD to Hexadecimal conversion logic. | Assembly | [View](Experiment-2/Source%20Code/Hex_to_BCD_and_BCD_to_Hex.asm) |
-| **Exp 3** | String Handling | Calculating the length of an input string using standard DOS interrupts. | Assembly | [View](Experiment-3/Source%20Code/Length_Of_An_Input_String.asm) |
-| **Exp 4** | Sorting Algorithms | Implementation of the Bubble Sort algorithm to organize arrays in both Ascending and Descending order. | Assembly | [📂](Experiment-4/Source%20Code/) |
-| **Exp 5** | Minimum Finder | Logic to traverse an array and identify the smallest numerical value. | Assembly | [View](Experiment-5/Source%20Code/Minimum_Number_In_An_Array.asm) |
-| **Exp 6** | System Interfacing | Retrieving and displaying the current system time in HH:MM:SS format using BIOS/DOS interrupts. | Assembly | [View](Experiment-6/Source%20Code/Display_System_Time.asm) |
-| **Exp 7** | Mathematical Op | Iterative calculation of the Factorial of a given number. | Assembly | [View](Experiment-7/Source%20Code/Factorial_Of_A_Number.asm) |
-| **Exp 8** | Macro Utilization | Demonstrating modularity and code reuse using 8086 Macros for string display. | Assembly | [View](Experiment-8/Source%20Code/Display_String_Using_Macro.asm) |
-| **Exp 9** | Array Splitter | Using mixed C and Assembly language to separate even and odd numbers from a dataset. | C & ASM | [View](Experiment-9/Source%20Code/Separate_Even_And_Odd_Numbers.c) |
-| **Exp 10**| Logical Shifting | Performing bitwise left and right shifts on numerical values using mixed C and Assembly. | C & ASM | [View](Experiment-10/Source%20Code/Shift_Number_Multiple_Times.c) |
-
-## Documentation
-
-| File | Description |
-|:---|:---|
-| 🧪 [Laboratory Manual](../Reference%20Books/Microprocessor%20Lab.pdf) | Comprehensive theory and instructions for each experiment. |
-| 📊 [Syllabus](../Syllabus/MU%20COMP%20TE%20BE.pdf) | Official course outcomes and assessment guidelines. |
+</div>
 
 ---
-**[⬆ Back to Main README](../README.md)**
+
+<div align="center">
+
+  [🔢 Experiment 1](#-experiment-1-basic-arithmetic-8-programs) &nbsp;·&nbsp; [🔄 Experiment 2](#-experiment-2-code-conversions-1-program) &nbsp;·&nbsp; [📝 Experiment 3](#-experiment-3-string-handling-1-program) &nbsp;·&nbsp; [📊 Experiment 4](#-experiment-4-sorting-algorithms-2-programs) &nbsp;·&nbsp; [🔍 Experiment 5](#-experiment-5-array-search-1-program)
+
+  [🕐 Experiment 6](#-experiment-6-system-interfacing-1-program) &nbsp;·&nbsp; [🧮 Experiment 7](#-experiment-7-mathematical-operations-1-program) &nbsp;·&nbsp; [📦 Experiment 8](#-experiment-8-macro-utilization-1-program) &nbsp;·&nbsp; [🔀 Experiment 9](#-experiment-9-array-splitter-1-program) &nbsp;·&nbsp; [⬅➡ Experiment 10](#-experiment-10-logical-shifting-1-program)
+
+  [🚀 How to Use](#-how-to-use) &nbsp;·&nbsp; [📖 Learning Path](#-learning-path)
+
+</div>
+
+---
+
+<!-- EXPERIMENT 1 -->
+## 🔢 Experiment 1: Basic Arithmetic (8 Programs)
+
+Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers.
+
+| # | Program | Algorithm | Description |
+|:---|:---|:---|:---|
+| 1 | [Addition_Of_Two_8-bit_Numbers.asm](Experiment-1/Source%20Code/Addition_Of_Two_8-bit_Numbers.asm) | Addition | 8-bit addition with carry handling |
+| 2 | [Addition_Of_Two_16-bit_Numbers.asm](Experiment-1/Source%20Code/Addition_Of_Two_16-bit_Numbers.asm) | Addition | 16-bit addition for larger values |
+| 3 | [Subtraction_Of_Two_8-bit_Numbers.asm](Experiment-1/Source%20Code/Subtraction_Of_Two_8-bit_Numbers.asm) | Subtraction | 8-bit subtraction basics |
+| 4 | [Subtraction_Of_Two_16-bit_Numbers.asm](Experiment-1/Source%20Code/Subtraction_Of_Two_16-bit_Numbers.asm) | Subtraction | 16-bit subtraction logic |
+| 5 | [Multiplication_Of_Two_8-bit_Numbers.asm](Experiment-1/Source%20Code/Multiplication_Of_Two_8-bit_Numbers.asm) | Multiplication | 8-bit unsigned multiplication |
+| 6 | [Multiplication_Of_Two_16-bit_Numbers.asm](Experiment-1/Source%20Code/Multiplication_Of_Two_16-bit_Numbers.asm) | Multiplication | 16-bit multiplication technique |
+| 7 | [Division_Of_Two_8-bit_Numbers.asm](Experiment-1/Source%20Code/Division_Of_Two_8-bit_Numbers.asm) | Division | 8-bit division with quotient/remainder |
+| 8 | [Division_Of_Two_16-bit_Numbers.asm](Experiment-1/Source%20Code/Division_Of_Two_16-bit_Numbers.asm) | Division | 16-bit division operations |
+
+---
+
+<!-- EXPERIMENT 2 -->
+## 🔄 Experiment 2: Code Conversions (1 Program)
+
+Menu-driven program for number system conversions.
+
+| # | Program | Description |
+|:---|:---|:---|
+| 1 | [Hex_to_BCD_and_BCD_to_Hex.asm](Experiment-2/Source%20Code/Hex_to_BCD_and_BCD_to_Hex.asm) | Hexadecimal to BCD and BCD to Hexadecimal conversion |
+
+---
+
+<!-- EXPERIMENT 3 -->
+## 📝 Experiment 3: String Handling (1 Program)
+
+String manipulation using DOS interrupts.
+
+| # | Program | Description |
+|:---|:---|:---|
+| 1 | [Length_Of_An_Input_String.asm](Experiment-3/Source%20Code/Length_Of_An_Input_String.asm) | Calculate length of an input string using BIOS/DOS interrupts |
+
+---
+
+<!-- EXPERIMENT 4 -->
+## 📊 Experiment 4: Sorting Algorithms (2 Programs)
+
+Implementation of Bubble Sort algorithm for array organization.
+
+| # | Program | Algorithm | Description |
+|:---|:---|:---|:---|
+| 1 | [Sorting_In_Ascending_Order.asm](Experiment-4/Source%20Code/Sorting_In_Ascending_Order.asm) | Bubble Sort | Sort array elements in ascending order |
+| 2 | [Sorting_In_Descending_Order.asm](Experiment-4/Source%20Code/Sorting_In_Descending_Order.asm) | Bubble Sort | Sort array elements in descending order |
+
+---
+
+<!-- EXPERIMENT 5 -->
+## 🔍 Experiment 5: Array Search (1 Program)
+
+Finding minimum value in an array.
+
+| # | Program | Description |
+|:---|:---|:---|
+| 1 | [Minimum_Number_In_An_Array.asm](Experiment-5/Source%20Code/Minimum_Number_In_An_Array.asm) | Traverse array and identify the smallest numerical value |
+
+---
+
+<!-- EXPERIMENT 6 -->
+## 🕐 Experiment 6: System Interfacing (1 Program)
+
+Retrieving system information using BIOS/DOS interrupts.
+
+| # | Program | Description |
+|:---|:---|:---|
+| 1 | [Display_System_Time.asm](Experiment-6/Source%20Code/Display_System_Time.asm) | Display current system time in HH:MM:SS format |
+
+---
+
+<!-- EXPERIMENT 7 -->
+## 🧮 Experiment 7: Mathematical Operations (1 Program)
+
+Advanced mathematical computations.
+
+| # | Program | Description |
+|:---|:---|:---|
+| 1 | [Factorial_Of_A_Number.asm](Experiment-7/Source%20Code/Factorial_Of_A_Number.asm) | Iterative calculation of factorial |
+
+---
+
+<!-- EXPERIMENT 8 -->
+## 📦 Experiment 8: Macro Utilization (1 Program)
+
+Demonstrating modularity using 8086 Macros.
+
+| # | Program | Description |
+|:---|:---|:---|
+| 1 | [Display_String_Using_Macro.asm](Experiment-8/Source%20Code/Display_String_Using_Macro.asm) | Display strings using macro definitions for code reuse |
+
+---
+
+<!-- EXPERIMENT 9 -->
+## 🔀 Experiment 9: Array Splitter (1 Program)
+
+Mixed C and Assembly language programming.
+
+| # | Program | Language | Description |
+|:---|:---|:---:|:---|
+| 1 | [Separate_Even_And_Odd_Numbers.c](Experiment-9/Source%20Code/Separate_Even_And_Odd_Numbers.c) | C & ASM | Separate even and odd numbers from a dataset |
+
+---
+
+<!-- EXPERIMENT 10 -->
+## ⬅➡ Experiment 10: Logical Shifting (1 Program)
+
+Bitwise operations using mixed programming.
+
+| # | Program | Language | Description |
+|:---|:---|:---:|:---|
+| 1 | [Shift_Number_Multiple_Times.c](Experiment-10/Source%20Code/Shift_Number_Multiple_Times.c) | C & ASM | Perform bitwise left and right shifts on numerical values |
+
+---
+
+<!-- HOW TO USE -->
+## 🚀 How to Use
+
+### Running Assembly Programs (Experiments 1-8)
+Requires TASM/MASM assembler and DOSBox.
+```bash
+tasm filename.asm
+tlink filename.obj
+filename.exe
+```
+
+### Running Mixed C/ASM Programs (Experiments 9-10)
+Requires Turbo C++ with inline assembly support.
+```bash
+tcc filename.c
+filename.exe
+```
+
+---
+
+<!-- LEARNING PATH -->
+## 📖 Learning Path
+
+**Beginner Level:**
+- Start with **Experiment 1** to understand basic 8086 arithmetic instructions.
+- Learn register manipulation and memory addressing.
+
+**Intermediate Level:**
+- Explore **Experiments 2-5** for data manipulation and control flow.
+- Understand loops, comparisons, and DOS interrupts.
+
+**Advanced Level:**
+- Study **Experiments 6-8** for system interfacing and macros.
+- Master **Experiments 9-10** for mixed C/Assembly programming.
+
+---
+
+<!-- LAB MANUAL -->
+## 📖 Lab Manual
+
+| Resource | Description |
+|:---|:---|
+| [Microprocessor Lab.pdf](../Reference%20Books/Microprocessor%20Lab.pdf) | Complete laboratory manual with all experiments |
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+  **[⬆ Back to Top](#microprocessor-lab)** &nbsp;·&nbsp; **[🔢 Exp 1](#-experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[🔄 Exp 2](#-experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[📝 Exp 3](#-experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[📊 Exp 4](#-experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[🔍 Exp 5](#-experiment-5-array-search-1-program)**
+
+  **[🕐 Exp 6](#-experiment-6-system-interfacing-1-program)** &nbsp;·&nbsp; **[🧮 Exp 7](#-experiment-7-mathematical-operations-1-program)** &nbsp;·&nbsp; **[📦 Exp 8](#-experiment-8-macro-utilization-1-program)** &nbsp;·&nbsp; **[🔀 Exp 9](#-experiment-9-array-splitter-1-program)** &nbsp;·&nbsp; **[⬅➡ Exp 10](#-experiment-10-logical-shifting-1-program)**
+
+  <br>
+
+  **[🏠 Back to Main Repository](../)** &nbsp;·&nbsp; **[📄 Assignments](../Assignments/)**
+
+</div>
+
+---
+
+<div align="center">
+
+  ### [Microprocessor and Microprocessor Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB)
+
+  **CSC502 & CSL502 · Semester V · Computer Engineering**
+
+  *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
+
+</div>
