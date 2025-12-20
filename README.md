@@ -288,13 +288,13 @@ Microprocessor-specific quizzes conducted during the online course:
 
 </div>
 
-| Resource | Description |
-|:---|:---|
-| 📊 [MP UT-2](Online%20Exam/MP%20UT-2.png) | Unit Test 2 Assessment |
-| 📄 [Online Test - All Subjects 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | Collective subject online test |
-| 📄 [Online Test - All Subjects 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | Collective subject online test |
-| 📄 [Online Test - All Subjects 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | Collective subject online test |
-| 📄 [Online Test - All Subjects 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | Collective subject online test |
+| Resource | Date | Marks | Description |
+|:---|:---:|:---:|:---|
+| 📊 [MP UT-2](Online%20Exam/MP%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
+| 📄 [Online Test - All Subjects 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject online test |
+| 📄 [Online Test - All Subjects 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject online test |
+| 📄 [Online Test - All Subjects 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject online test |
+| 📄 [Online Test - All Subjects 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject online test |
 
 ---
 
