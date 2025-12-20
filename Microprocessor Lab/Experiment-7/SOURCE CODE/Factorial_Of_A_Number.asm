@@ -1,76 +1,99 @@
-; -------------------------------------------------------------------------------------------------
+; =================================================================================================
 ; AUTHOR      : Amey Thakur
 ; REPOSITORY  : https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB
-; DESCRIPTION : 8086 Assembly program to find the Factorial of a given number.
+; DESCRIPTION : 8086 Assembly program to calculate the Factorial of a given number.
 ; -------------------------------------------------------------------------------------------------
+; WHAT IS A FACTORIAL?
+; The factorial of a number (written as n!) is the product of all positive integers 
+; from 1 up to that number. For example: 5! = 5 x 4 x 3 x 2 x 1 = 120.
+;
+; HOW IT WORKS: 
+; 1. Take a single-digit number input from the user.
+; 2. Initialize a result variable to 1.
+; 3. Use a loop to multiply the result by the number, then the number minus 1, and so on.
+; 4. Convert the final numeric result into decimal format for display.
+; =================================================================================================
 
 DATA SEGMENT
-    M1 DB 10, 13, "ENTER THE NUMBER: $"
-    M2 DB 10, 13, "FACTORIAL OF THE NUMBER IS: $"
-    NUM DB ?
-    FACT DW 01H        ; Default factorial value is 1 (for 0! and 1!)
+    ; --- User Messages ---
+    M1 DB 10, 13, " ENTER THE NUMBER (0-8): $"
+    M2 DB 10, 13, " FACTORIAL OF THE NUMBER IS: $"
+    
+    ; --- Variables ---
+    NUM DB ?           ; To store the number entered by the user
+    FACT DW 01H        ; To store the calculated result (starts at 1)
 DATA ENDS
 
 CODE SEGMENT
 ASSUME DS:DATA, CS:CODE
 START:
-    MOV AX, DATA       ; Initialize Data Segment
+    ; -- Initialization: Set up the memory access --
+    MOV AX, DATA       
     MOV DS, AX
 
-    LEA DX, M1         ; Display "ENTER THE NUMBER"
-    MOV AH, 09H
+    ; -- Step 1: Prompt the user for a number --
+    LEA DX, M1         
+    MOV AH, 09H        ; DOS function: Display string
     INT 21H
 
-    MOV AH, 01H        ; Read a single digit number
+    ; -- Step 2: Read the number from the keyboard --
+    MOV AH, 01H        ; DOS function: Read character
     INT 21H
-    SUB AL, 30H        ; Convert ASCII to numeric value
-    MOV NUM, AL        ; Store in NUM
+    SUB AL, 30H        ; Convert ASCII '5' to actual number 5
+    MOV NUM, AL        ; Save it in variable 'NUM'
 
-    MOV CL, AL         ; Load NUM into CL for loop counter
-    MOV CH, 00H        ; Clear CH
-    MOV AX, 0001H      ; Initialize AX with 1 (factorial starts at 1)
+    ; -- Step 3: Prepare the Loop Counters --
+    MOV CL, AL         ; Load our number into the loop counter register (CL)
+    MOV CH, 00H        ; Ensure the rest of CX is empty
+    MOV AX, 0001H      ; AX will hold our running product (starting at 1)
 
-    CMP CX, 0000H      ; Check if number is 0
-    JE RESULT          ; Factorial of 0 is 1, go to result
+    ; -- Edge Case: If the user enters 0, the factorial is 1 --
+    CMP CX, 0000H      
+    JE SHOW_RESULT     
 
-CALC_FACT:
-    MUL CX             ; AX = AX * CX
-    LOOP CALC_FACT     ; Decrement CX and repeat until CX = 0
+    ; -- Step 4: The Multiplication Loop --
+CALC_LOOP:
+    ; 'MUL' multiplies the value in AX by the value in CX. 
+    ; The result is stored back in AX.
+    MUL CX             
+    LOOP CALC_LOOP     ; Decrement CX and go back to CALC_LOOP until CX hits 0
 
-RESULT:
-    MOV FACT, AX       ; Store the result in FACT
+SHOW_RESULT:
+    ; -- Step 5: Save and Display the final result --
+    MOV FACT, AX       ; Store the final answer into memory
     
-    LEA DX, M2         ; Display result prefix
+    LEA DX, M2         ; Show the "FACTORIAL IS: " message
     MOV AH, 09H
     INT 21H
 
-    MOV AX, FACT       ; Load the result for display
-    CALL DISPLAY       ; Call procedure to display the factorial
+    MOV AX, FACT       ; Load the result back for printing
+    CALL DISPLAY_DECIMAL ; Call our helper to print the number on screen
 
-    MOV AH, 4CH        ; Terminate program
+    ; -- Exit Program --
+    MOV AH, 4CH        
     INT 21H
 
-; Procedure to display a 16-bit number in AX as decimal
-DISPLAY PROC
-    MOV BX, 000Ah      ; Divisor
-    MOV CX, 0000h      ; Digit counter
+; --- HELPER PROCEDURE: Display a 16-bit number in AX as a Decimal string ---
+DISPLAY_DECIMAL PROC
+    MOV BX, 000AH      ; We will divide by 10 to extract digits
+    MOV CX, 0000H      ; Counter for how many digits we find
 
-DIV_LOOP:
-    MOV DX, 0000h
-    DIV BX             ; AX / 10
-    PUSH DX            ; Save remainder
-    INC CX
-    CMP AX, 0000h
-    JNE DIV_LOOP
+DIVIDE_PROCESS:
+    MOV DX, 0000H      ; Clear DX for the division
+    DIV BX             ; AX / 10. Quotient in AX, digit (remainder) in DX.
+    PUSH DX            ; Save the digit for later
+    INC CX             ; Count the digit
+    CMP AX, 0000H      ; Any more digits left?
+    JNE DIVIDE_PROCESS
 
-PRINT_LOOP:
-    POP DX             ; Get digit
-    ADD DL, 30H        ; Convert to ASCII
-    MOV AH, 02H
+PRINTING:
+    POP DX             ; Get the last digit we saved
+    ADD DL, 30H        ; Convert it to ASCII ('0'-'9')
+    MOV AH, 02H        ; DOS function: Print character
     INT 21H
-    LOOP PRINT_LOOP
+    LOOP PRINTING      ; Repeat until all digits are printed
     RET
-DISPLAY ENDP
+DISPLAY_DECIMAL ENDP
 
 CODE ENDS
 END START
