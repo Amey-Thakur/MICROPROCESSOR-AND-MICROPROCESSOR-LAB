@@ -136,6 +136,106 @@ The laboratory component (CSL502) focuses on hands-on implementation of various 
 | **Experiment 9** | Array Split | Separate Even and Odd Numbers (Mixed C/ASM) | [📂](Microprocessor%20Lab/Experiment-9/) |
 | **Experiment 10**| Logical Shift | Shift Number Multiple Times (Mixed C/ASM) | [📂](Microprocessor%20Lab/Experiment-10/) |
 
+### Program Details
+
+<details>
+<summary><strong>📁 Experiment 1: Basic Arithmetic Operations (8 Programs)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `Addition_Of_Two_8-bit_Numbers.asm` | Addition | 8-bit addition with carry handling | [View](Microprocessor%20Lab/Experiment-1/Source%20Code/Addition_Of_Two_8-bit_Numbers.asm) |
+| `Addition_Of_Two_16-bit_Numbers.asm` | Addition | 16-bit addition for larger values | [View](Microprocessor%20Lab/Experiment-1/Source%20Code/Addition_Of_Two_16-bit_Numbers.asm) |
+| `Subtraction_Of_Two_8-bit_Numbers.asm` | Subtraction | 8-bit subtraction basics | [View](Microprocessor%20Lab/Experiment-1/Source%20Code/Subtraction_Of_Two_8-bit_Numbers.asm) |
+| `Subtraction_Of_Two_16-bit_Numbers.asm` | Subtraction | 16-bit subtraction logic | [View](Microprocessor%20Lab/Experiment-1/Source%20Code/Subtraction_Of_Two_16-bit_Numbers.asm) |
+| `Multiplication_Of_Two_8-bit_Numbers.asm` | Multiplication | 8-bit unsigned multiplication | [View](Microprocessor%20Lab/Experiment-1/Source%20Code/Multiplication_Of_Two_8-bit_Numbers.asm) |
+| `Multiplication_Of_Two_16-bit_Numbers.asm` | Multiplication | 16-bit unsigned multiplication | [View](Microprocessor%20Lab/Experiment-1/Source%20Code/Multiplication_Of_Two_16-bit_Numbers.asm) |
+| `Division_Of_Two_8-bit_Numbers.asm` | Division | 8-bit unsigned division | [View](Microprocessor%20Lab/Experiment-1/Source%20Code/Division_Of_Two_8-bit_Numbers.asm) |
+| `Division_Of_Two_16-bit_Numbers.asm` | Division | 16-bit unsigned division | [View](Microprocessor%20Lab/Experiment-1/Source%20Code/Division_Of_Two_16-bit_Numbers.asm) |
+
+</details>
+
+<details>
+<summary><strong>🔢 Experiment 2: Code Conversions (1 Program)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `Hex_to_BCD_and_BCD_to_Hex.asm` | Conversion | Menu-driven Hex to BCD and BCD to Hex | [View](Microprocessor%20Lab/Experiment-2/Source%20Code/Hex_to_BCD_and_BCD_to_Hex.asm) |
+
+</details>
+
+<details>
+<summary><strong>🧵 Experiment 3: String Handling (1 Program)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `Length_Of_An_Input_String.asm` | String Manipulation | Finding the character count of a string | [View](Microprocessor%20Lab/Experiment-3/Source%20Code/Length_Of_An_Input_String.asm) |
+
+</details>
+
+<details>
+<summary><strong>📊 Experiment 4: Sorting Algorithms (2 Programs)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `Ascending_Order_Sorting.asm` | Bubble Sort | Sorting an array in increasing order | [View](Microprocessor%20Lab/Experiment-4/Source%20Code/Ascending_Order_Sorting.asm) |
+| `Descending_Order_Sorting.asm` | Bubble Sort | Sorting an array in decreasing order | [View](Microprocessor%20Lab/Experiment-4/Source%20Code/Descending_Order_Sorting.asm) |
+
+</details>
+
+<details>
+<summary><strong>🔍 Experiment 5: Array Search (1 Program)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `Minimum_Number_In_An_Array.asm` | Linear Search | Identifying the smallest number in an array | [View](Microprocessor%20Lab/Experiment-5/Source%20Code/Minimum_Number_In_An_Array.asm) |
+
+</details>
+
+<details>
+<summary><strong>⏰ Experiment 6: System Interfacing (1 Program)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `Display_System_Time.asm` | BIOS Interrupts | Extracting and displaying system time | [View](Microprocessor%20Lab/Experiment-6/Source%20Code/Display_System_Time.asm) |
+
+</details>
+
+<details>
+<summary><strong>➗ Experiment 7: Practical Mathematics (1 Program)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `Factorial_Of_A_Number.asm` | Iteration | Calculating factorial of a given input | [View](Microprocessor%20Lab/Experiment-7/Source%20Code/Factorial_Of_A_Number.asm) |
+
+</details>
+
+<details>
+<summary><strong>📦 Experiment 8: Macros (1 Program)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `Display_String_Using_Macro.asm` | Macro | Modular string display using macros | [View](Microprocessor%20Lab/Experiment-8/Source%20Code/Display_String_Using_Macro.asm) |
+
+</details>
+
+<details>
+<summary><strong>⚡ Experiment 9: Array Manipulation (1 Program)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `Separate_Even_And_Odd_Numbers.c` | Mixed C/ASM | Splitting an array into even and odd sets | [View](Microprocessor%20Lab/Experiment-9/Source%20Code/Separate_Even_And_Odd_Numbers.c) |
+
+</details>
+
+<details>
+<summary><strong>🔄 Experiment 10: Logical Operations (1 Program)</strong></summary>
+
+| Program | Algorithm | Description | Code |
+|:---|:---|:---|:-:|
+| `Shift_Number_Multiple_Times.c` | Mixed C/ASM | Performing bitwise logical shifts | [View](Microprocessor%20Lab/Experiment-10/Source%20Code/Shift_Number_Multiple_Times.c) |
+
+</details>
+
 ---
 
 <!-- ONLINE EXAM -->
