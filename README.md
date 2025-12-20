@@ -331,11 +331,21 @@ Previous year university question papers:
 <!-- SUBMISSION REPORT -->
 ## Submission Report
 
-Final laboratory submission documentation:
+Comprehensive submission documentation for the Microprocessor course:
 
 | Resource | Description |
 |:---|:---|
-| 📄 [MP Submission Report](Submission%20Report/Amey_B-50_MP_Submission_Report.pdf) | Complete record of all experiments, assignments, and classwork |
+| 📄 [MP Submission Report](Submission%20Report/Amey_B-50_MP_Submission_Report.pdf) | Complete coursework submission record |
+
+**Report Contents:**
+
+| Sr.No. | Particulars | Page |
+|:---:|:---|:---:|
+| 1 | Experiments (1 to 10) | 2 |
+| 2 | Assignments (1 & 2) | 8 |
+| 3 | Quizzes (1 to 6) | 9 |
+| 4 | Course Exit Survey | 15 |
+| 5 | Lab Exit Survey | 15 |
 
 ---
 
