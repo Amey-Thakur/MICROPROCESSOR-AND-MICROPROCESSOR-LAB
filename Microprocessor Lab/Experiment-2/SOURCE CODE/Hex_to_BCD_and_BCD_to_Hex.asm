@@ -1,164 +1,186 @@
-; -------------------------------------------------------------------------------------------------
+; =================================================================================================
 ; AUTHOR      : Amey Thakur
 ; REPOSITORY  : https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB
 ; DESCRIPTION : 8086 Assembly program for Hexadecimal to BCD and BCD to Hexadecimal conversion.
 ; -------------------------------------------------------------------------------------------------
+; HOW IT WORKS:
+; 1. Display a menu for the user to choose between Hex-to-BCD or BCD-to-Hex conversion.
+; 2. Hex to BCD: Input a 4-digit hexadecimal number, divide it by 10 repeatedly to get 
+;    individual digits, and store them.
+; 3. BCD to Hex: Input a 5-digit BCD number, multiply each digit by its power of 10 
+;    (10000, 1000, etc.), and sum them up to get the hex equivalent.
+; =================================================================================================
 
-.model small
-.data
-	menu db 10d,13d," MENU"
-		db 10d,"1. Hex to BCD"
-		db 10d,"2. BCD to Hex"
-		db 10d,"3. Exit"
-		db 10d,"Enter your choice: $"
-	m1 db 10d,"Enter 4 Digit Hex Number: $"
-	m2 db 10d,"Equivalent BCD Number: $"
-	num dw 0000h
-	arr db 5 dup(0)
-	count db 00h
-	
-	m3 db 10d,"Enter 5 Digit BCD Number: $"
-	m4 db 10d,"Equivalent Hex Number: $"
-	num1 dw 10000D
-	num2 dw 10d
-	num3 dw ?
-	
-.code
-	mov ax,@data
-	mov ds,ax
+.MODEL SMALL
+.DATA
+    ; --- Menu and Messages ---
+    MENU DB 10D, 13D, " =========================="
+         DB 10D, "         M E N U"
+         DB 10D, " =========================="
+         DB 10D, " 1. Hex to BCD"
+         DB 10D, " 2. BCD to Hex"
+         DB 10D, " 3. Exit"
+         DB 10D, " Enter your choice: $"
+    
+    M1 DB 10D, " Enter 4 Digit Hex Number: $"
+    M2 DB 10D, " Equivalent BCD Number: $"
+    M3 DB 10D, " Enter 5 Digit BCD Number: $"
+    M4 DB 10D, " Equivalent Hex Number: $"
 
-main: 
-	lea dx,menu          ; Display choice menu
-	mov ah,09H
-	int 21h
-	mov ah,01h           ; Read choice
-	int 21h
-	cmp al,'1'           ; Check if choice is 1 (Hex to BCD)
-	je case1
-	cmp al,'2'           ; Check if choice is 2 (BCD to Hex)
-	je case2
-	jmp exit             ; Exit if choice is 3 or other
+    ; --- Variables ---
+    NUM DW 0000H         ; Stores the input hexadecimal number
+    ARR DB 5 DUP(0)      ; Array to hold individual BCD digits
+    COUNT DB 00H         ; Counter for digit processing
+    NUM1 DW 10000D       ; Starting power of 10 for BCD conversion
+    NUM2 DW 10D          ; Constant for decreasing the power of 10
+    NUM3 DW ?            ; Temporary storage for hex output
 
-exit: 
-	mov ah,4Ch           ; Terminate program
-	int 21h
+.CODE
+    ; -- Initialize the data segment --
+    MOV AX, @DATA
+    MOV DS, AX
 
-case1: 
-	call hextobcd        ; Run Hex to BCD conversion
-	jmp main
+MAIN: 
+    ; -- Step 1: Display the menu to the user --
+    LEA DX, MENU          
+    MOV AH, 09H           ; DOS function: Print string
+    INT 21H
 
-case2: 
-	call bcdtohex        ; Run BCD to Hex conversion
-	jmp main
+    ; -- Step 2: Read user's choice --
+    MOV AH, 01H           ; DOS function: Read character from keyboard
+    INT 21H
+    CMP AL, '1'           ; Did the user pick '1'?
+    JE CASE1
+    CMP AL, '2'           ; Did the user pick '2'?
+    JE CASE2
+    CMP AL, '3'           ; Did the user pick '3'? (Exit)
+    JE EXIT
+    JMP MAIN             ; If invalid choice, show menu again
 
-hextobcd proc
-	lea dx,m1            ; Prompt for Hex number
-	mov ah,09h
-	int 21h
-	mov ch,04h           ; Count for 4 digits
+EXIT: 
+    ; -- Standard way to close the program --
+    MOV AH, 4CH           
+    INT 21H
 
-loop1: 
-	mov ah,01h           ; Read character
-	int 21h
-	cmp al,39h           ; Check if digit is 0-9
-	jbe skip1
-	sub al,07h           ; Convert A-F to numeric value
+CASE1: 
+    CALL HEXTOBCD        ; Jump to the Hex to BCD procedure
+    JMP MAIN             ; Return to menu after finishing
 
-skip1: 
-	sub al,30h           ; ASCII to Hex
-	mov ah,00h
-	add num,ax           ; Add to num
-	rol num,04           ; Shift left for next digit
-	dec ch
-	jnz loop1
-	rol num,04           ; Correct position after rolling
-	
-	mov ax,num
-	mov dx,0000h
-	mov bx,000Ah         ; Divisor for BCD conversion
-	lea si,arr
+CASE2: 
+    CALL BCDTOHEX        ; Jump to the BCD to Hex procedure
+    JMP MAIN             ; Return to menu after finishing
 
-loop2: 
-	div bx               ; Divide by 10
-	mov [si],dx          ; Store remainder (BCD digit)
-	inc si
-	inc count
-	mov dx,0000h
-	cmp ax,0000h
-	jnz loop2
-	
-	lea dx,m2            ; Display result prefix
-	mov ah,09h
-	int 21h
-	dec si
-	mov ch,05h           ; Display 5 digits
+; --- PROCEDURE: Convert Hexadecimal to BCD ---
+HEXTOBCD PROC
+    LEA DX, M1            ; Prompt for hex number
+    MOV AH, 09H
+    INT 21H
+    MOV CH, 04H           ; We expect 4 hexadecimal digits (e.g., 1A2B)
 
-loop3: 
-	mov dl,[si]          ; Get digit from array
-	cmp dl,09h           ; Check if digit is 0-9
-	jbe skip2
-	add dl,07h
+LOOP1: 
+    MOV AH, 01H           ; Get one character
+    INT 21H
+    CMP AL, 39H           ; Is it 0-9 or A-F?
+    JBE SKIP1             ; If 0-9, skip the A-F adjustment
+    SUB AL, 07H           ; adjustment for A-F characters
 
-skip2: 
-	add dl,30h           ; Hex to ASCII
-	mov ah,02h           ; Display character
-	int 21h
-	dec si
-	dec ch
-	jnz loop3
-	ret
-hextobcd endp
+SKIP1: 
+    SUB AL, 30H           ; Convert ASCII '0'-'9' to actual value 0-9
+    MOV AH, 00H
+    ADD NUM, AX           ; Add the value to our number variable
+    ROL NUM, 04           ; Shift left by 4 bits to make room for the next nibble
+    DEC CH
+    JNZ LOOP1             ; Repeat 4 times
+    ROL NUM, 04           ; Final rotation to fix the positions
+    
+    ; -- Convert the binary number to BCD digits by dividing by 10 --
+    MOV AX, NUM
+    MOV DX, 0000H
+    MOV BX, 000AH         ; Divide by 10
+    LEA SI, ARR
 
-bcdtohex proc
-	lea dx,m3            ; Prompt for 5-digit BCD
-	mov ah,09h
-	int 21h	
-	mov bx,0000h
-	lea si,count
-	mov dl,05h
-	mov [si],dl
+LOOP2: 
+    DIV BX                ; Divide AX by 10
+    MOV [SI], DX          ; Store the remainder (the last digit) in our array
+    INC SI
+    INC COUNT
+    MOV DX, 0000H
+    CMP AX, 0000H         ; Are we done dividing?
+    JNZ LOOP2
+    
+    LEA DX, M2            ; Show "Equivalent BCD Number: "
+    MOV AH, 09H
+    INT 21H
+    DEC SI
+    MOV CH, 05H           ; Display up to 5 BCD digits
 
-loop4: 
-	mov ah,01h           ; Read character
-	int 21h
-	cmp al,39h
-	jbe skip3
-	sub al,07h
+LOOP3: 
+    MOV DL, [SI]          ; Load digit from the array
+    CMP DL, 09H
+    JBE SKIP2
+    ADD DL, 07H
 
-skip3: 
-	sub al,30h           ; ASCII to value
-	mov ah,00h
-	mul num1             ; Multiply by current power of 10
-	add bx,ax            ; Accumulate in BX
-	mov dx,0000h
-	mov ax,num1	
-	div num2             ; Reduce power of 10 (10000 -> 1000 -> 100...)
-	mov num1,ax
-	dec count
-	jnz loop4
-	
-	lea dx,m4            ; Display result prefix
-	mov ah,09h
-	int 21h
-	mov ch,04h	
+SKIP2: 
+    ADD DL, 30H           ; Convert value back to ASCII for printing
+    MOV AH, 02H           ; DOS function: Print single character
+    INT 21H
+    DEC SI
+    DEC CH
+    JNZ LOOP3
+    RET
+HEXTOBCD ENDP
 
-loop5: 
-	rol bx,04h           ; Get highest hex nibble
-	mov num3,bx
-	and bx,000Fh         ; Mask all but 4 bits
-	cmp bl,09h
-	jbe skip4
-	add bl,07h
+; --- PROCEDURE: Convert BCD to Hexadecimal ---
+BCDTOHEX PROC
+    LEA DX, M3            ; Prompt for 5-digit BCD (e.g., 65535)
+    MOV AH, 09H
+    INT 21H	
+    MOV BX, 0000H
+    LEA SI, COUNT
+    MOV DL, 05H
+    MOV [SI], DL
 
-skip4: 
-	add bl,30h           ; Num to ASCII
-	mov dl,bl
-	mov ah,02h           ; Display hex digit
-	int 21h
-	mov bx,num3
-	dec ch
-	jnz loop5
-	ret
-bcdtohex endp
+LOOP4: 
+    MOV AH, 01H           ; Read character
+    INT 21H
+    CMP AL, 39H
+    JBE SKIP3
+    SUB AL, 07H
 
-end
+SKIP3: 
+    SUB AL, 30H           ; Convert ASCII to value
+    MOV AH, 00H
+    MUL NUM1              ; Multiply digit by its power of 10
+    ADD BX, AX            ; Accumulate the result in BX
+    MOV DX, 0000H
+    MOV AX, NUM1	
+    DIV NUM2              ; Decrease power of 10 for the next digit (10000 -> 1000 -> 100...)
+    MOV NUM1, AX
+    DEC COUNT
+    JNZ LOOP4
+    
+    LEA DX, M4            ; Show result message
+    MOV AH, 09H
+    INT 21H
+    MOV CH, 04H	          ; We will display 4 hex digits
+
+LOOP5: 
+    ROL BX, 04H           ; Rotate left by 4 bits to get the highest nibble
+    MOV NUM3, BX
+    AND BX, 000FH         ; Mask out everything except the lowest 4 bits
+    CMP BL, 09H
+    JBE SKIP4
+    ADD BL, 07H
+
+SKIP4: 
+    ADD BL, 30H           ; Convert number to ASCII
+    MOV DL, BL
+    MOV AH, 02H           ; Print the hex digit
+    INT 21H
+    MOV BX, NUM3          ; Restore the original BX
+    DEC CH
+    JNZ LOOP5
+    RET
+BCDTOHEX ENDP
+
+END
