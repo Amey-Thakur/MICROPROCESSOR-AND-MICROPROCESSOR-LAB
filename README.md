@@ -1,100 +1,244 @@
-# MICROPROCESSOR-AND-MICROPROCESSOR-LAB
+<!-- HEADER -->
+<div align="center">
 
- 👍🏻 CSC501: MP & CSL501: MP LAB [SEMESTER V]
+  <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
+
+  # Microprocessor and Microprocessor Lab
+
+  ### CSC502 & CSL502 · Semester V · Computer Engineering
+
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+
+  **A comprehensive academic resource for Microprocessor (MP) and Microprocessor Laboratory (MP Lab), covering 8086 architecture, assembly language programming, system interfacing, and practical implementations.**
+
+  ---
+
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📝 The Wall](#the-wall) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [📄 Online Exam](#online-exam) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+
+</div>
 
 ---
 
- - [X] **[Syllabus](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**
- 
- - [X] **MP - [Reference Books](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/Reference%20Books)**
+<!-- OVERVIEW -->
+## Overview
+
+Microprocessor (CSC502) and Microprocessor Lab (CSL502) are core subjects in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of the 8086 microprocessor architecture, its instruction set, peripheral interfacing, and the principles of low-level system programming.
+
+### Course Topics
+
+The curriculum encompasses several key domains in microprocessor systems:
+
+- **8086 Architecture**: Internal architecture, memory segmentation, register organization, and signal descriptions.
+- **Instruction Set**: Data transfer, arithmetic, logical, string manipulation, and processor control instructions.
+- **Assembly Language Programming**: Writing and debugging 8086 programs using TASM/MASM.
+- **System Interfacing**: Designing memory and I/O interfaces, interrupt controllers (8259), and programmable peripheral interfaces (8255).
+- **Advanced Architecture**: Introduction to 80386, 80486, and Pentium processors.
+- **Multiprocessor Configurations**: Coprocessor configurations and closely/loosely coupled systems.
+
+### Repository Purpose
+
+This repository represents a curated collection of study materials, reference books, lab experiments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is to **preserve knowledge for continuous learning and future reference**.
+
+As a computer engineer, understanding the underlying hardware-software interface is crucial for low-level system design, embedded systems, and performance optimization. This repository serves as my intellectual reference point for hardware fundamentals.
+
+**Why this repository exists:**
+
+- **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
+- **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental microprocessor concepts.
+- **Academic Documentation**: To authentically document my learning journey through MP and MP Lab.
+- **Community Contribution**: To share these resources with students and learners who may benefit from them.
+
+All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
 
 ---
 
-## Assignments
- 
- - MP [Assignment - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Assignments/Amey_B-50_MP_Assignment-1.pdf)
- 
- - MP [Assignment - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Assignments/Amey_B-50_MP_Assignment-2.pdf)
+<!-- CONTENTS -->
+## Repository Contents
 
+### Reference Books
 
-## Classwork
- 
- - MP [Classwork | 20-10-2020](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf)
- 
- - MP [Classwork | 10-11-2020](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf)
+This collection includes **9 comprehensive reference materials** covering all major topics:
 
+| # | Resource | Focus Area |
+|:-:|:---|:---|
+| 1 | [MP Techmax](Reference%20Books/MP%20Techmax.pdf) | Complete syllabus coverage |
+| 2 | [MP Notes](Reference%20Books/microprocessor%20notes.pdf) | Comprehensive lecture notes |
+| 3 | [Bharat Acharya](Reference%20Books/Bharat%20Acharya.pdf) | Visual and conceptual architecture notes |
+| 4 | [Intel Book](Reference%20Books/Intel%20Book.pdf) | Official architecture references |
+| 5 | [MP Easy Solutions](Reference%20Books/Microprocessor%20Easy%20Solutions.pdf) | Solved questions and exam-oriented summaries |
+| 6 | [MP Question Bank](Reference%20Books/MP%20Question%20Bank.png) | Practice questions for exam preparation |
+| 7 | [Microprocessor Lab Manual](Reference%20Books/Microprocessor%20Lab.pdf) | Practical guidance and theory |
+| 8 | [MP Illustration](Reference%20Books/Microprocessor.png) | Key architectural diagrams |
+| 9 | [SEM - V Books List](Reference%20Books/Semester%205%20Books.png) | Curated book recommendations |
 
-## Experiments
- 
- >**[8086 ASSEMBLY LANGUAGE PROGRAMS](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) - GITHUB REPOSITORY**
- 
- - Microprocessor Lab [Experiment - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-1/Amey_B-50_MP_Experiment-1.pdf) | [Source Code](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/Microprocessor%20Lab/Experiment-1/Source%20Code)
- 
- - Microprocessor Lab [Experiment - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-2/Amey_B-50_MP_Experiment-2.pdf) | [Source Code](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-2/Source%20Code/Hex_to_BCD_and_BCD_to_Hex.asm)
- 
- - Microprocessor Lab [Experiment - 3](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-3/Amey_B-50_MP_Experiment-3.pdf) | [Source Code](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-3/Source%20Code/Length_Of_An_Input_String.asm)
- 
- - Microprocessor Lab [Experiment - 4](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-4/Amey_B-50_MP_Experiment-4.pdf) | [Source Code](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/Microprocessor%20Lab/Experiment-4/Source%20Code)
- 
- - Microprocessor Lab [Experiment - 5](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-5/Amey_B-50_MP_Experiment-5.pdf) | [Source Code](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-5/Source%20Code/Minimum_Number_In_An_Array.asm)
- 
- - Microprocessor Lab [Experiment - 6](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-6/Amey_B-50_MP_Experiment-6.pdf) | [Source Code](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-6/Source%20Code/Display_System_Time.asm)
- 
- - Microprocessor Lab [Experiment - 7](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-7/Amey_B-50_MP_Experiment-7.pdf) | [Source Code](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-7/Source%20Code/Factorial_Of_A_Number.asm)
- 
- - Microprocessor Lab [Experiment - 8](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-8/Amey_B-50_MP_Experiment-8.pdf) | [Source Code](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-8/Source%20Code/Display_String_Using_Macro.asm)
- 
- - Microprocessor Lab [Experiment - 9](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-9/Amey_B-50_MP_Experiment-9.pdf) | [Source Code](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-9/Source%20Code/Separate_Even_And_Odd_Numbers.c)
- 
- - Microprocessor Lab [Experiment - 10](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-10/Amey_B-50_MP_Experiment-10.pdf) | [Source Code](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Microprocessor%20Lab/Experiment-10/Source%20Code/Shift_Number_Multiple_Times.c)
+---
 
+### The Wall
 
-## Quizzes
- 
- - Microprocessor [Quiz](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Quizzes/Quiz%20Microprocessor.pdf)
- 
- - Microprocessor [Quiz - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Quizzes/Quiz%20Microprocessor%20-%201.pdf)
- 
- - Microprocessor [Quiz - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Quizzes/Quiz%20Microprocessor%20-%202.pdf)
- 
- - Microprocessor [Quiz - 3](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Quizzes/Quiz%20Microprocessor%20-%203.pdf)
- 
- - Microprocessor [Quiz - 4](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Quizzes/Quiz%20Microprocessor%20-%204.pdf)
- 
- - Microprocessor [Quiz - 5](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Quizzes/Quiz%20Microprocessor%20-%205.pdf)
- 
- - Microprocessor [Quiz - 6](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Quizzes/Quiz%20Microprocessor%20-%206.pdf)
+<div align="center">
 
+**Collaborative Study Notes**
 
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Amey-Thakur">
+<img src="https://github.com/Amey-Thakur.png" alt="Amey Thakur" width="150" height="150"/><br/>
+<b>Amey Thakur</b>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### Personal Preparation
+
+Study materials and planning resources for effective exam preparation:
+
+| Resource | Description |
+|:---|:---|
+| 📝 [Syllabus Breakdown](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf) | Detailed module-wise syllabus notes |
+| 📊 [Syllabus (Full)](Syllabus/MU%20COMP%20TE%20BE.pdf) | Official University of Mumbai curriculum |
+| 🎯 [Question Papers](Question%20Papers/) | Previous year academic papers (2018-2019) |
+| 🏆 [Submission Report](Submission%20Report/Amey_B-50_MP_Submission_Report.pdf) | Final laboratory completion record |
+
+---
+
+### Assignments
+
+Academic assignments for comprehensive learning and practice:
+
+| Resource | Description | View |
+|:---|:---|:-:|
+| 📝 **Assignment 1** | Architecture and Instruction Set Fundamentals | [📂](Assignments/Amey_B-50_MP_Assignment-1.pdf) |
+| 📝 **Assignment 2** | Interfacing and Advanced Microprocessors | [📂](Assignments/Amey_B-50_MP_Assignment-2.pdf) |
+
+---
+
+<!-- LABORATORY -->
+## Microprocessor Laboratory
+
+The laboratory component (CSL502) focuses on hands-on implementation of various 8086 assembly language programs using TASM/MASM, providing practical experience in low-level programming and data manipulation.
+
+<div align="center">
+
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-brightgreen.svg)](Microprocessor%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-blue.svg)](Microprocessor%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Verified-orange.svg)](Microprocessor%20Lab/)
+
+  **[📂 Browse All Experiments](Microprocessor%20Lab/)**
+
+</div>
+
+### Laboratory Experiments
+
+| Experiment | Topic | Objective | View |
+|:---|:---|:---|:-:|
+| **Experiment 1** | Basic Arithmetic | Addition, Subtraction, Multiplication, Division | [📂](Microprocessor%20Lab/Experiment-1/) |
+| **Experiment 2** | Conversions | Hex to BCD and BCD to Hex | [📂](Microprocessor%20Lab/Experiment-2/) |
+| **Experiment 3** | String Handling | Length of an Input String | [📂](Microprocessor%20Lab/Experiment-3/) |
+| **Experiment 4** | Sorting | Ascending and Descending sorting | [📂](Microprocessor%20Lab/Experiment-4/) |
+| **Experiment 5** | Array Search | Finding Minimum Number in an Array | [📂](Microprocessor%20Lab/Experiment-5/) |
+| **Experiment 6** | System Time | Display Current System Time | [📂](Microprocessor%20Lab/Experiment-6/) |
+| **Experiment 7** | Mathematical | Factorial of a Number | [📂](Microprocessor%20Lab/Experiment-7/) |
+| **Experiment 8** | Macros | Display String using Macros | [📂](Microprocessor%20Lab/Experiment-8/) |
+| **Experiment 9** | Array Split | Separate Even and Odd Numbers (Mixed C/ASM) | [📂](Microprocessor%20Lab/Experiment-9/) |
+| **Experiment 10**| Logical Shift | Shift Number Multiple Times (Mixed C/ASM) | [📂](Microprocessor%20Lab/Experiment-10/) |
+
+---
+
+<!-- ONLINE EXAM -->
 ## Online Exam
- 
- - MP [UT - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Online%20Exam/MP%20UT-2.png)
 
- - Online Test [All Subjects - 1](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf)
- 
- - Online Test [All Subjects - 2](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf)
- 
- - Online Test [All Subjects - 3](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf)
- 
- - Online Test [All Subjects - 4](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf)
+> [!IMPORTANT]
+> **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2020. Due to the transition to online learning, examinations and assessments were conducted in a digital format. 
 
+### Online Assessments & Quizzes
 
-## Semester Exam
- 
- - MP [Answer Sheet](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Semester%20Exam/51112146_MP_Q.2%26Q.3.pdf)
-
-
-## Question Papers
- 
- - [Previous Question Papers](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/Question%20Papers)
-
-
-## Submission Report
- 
- - [Report](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/blob/main/Submission%20Report/Amey_B-50_MP_Submission_Report.pdf)
+| Resource | Description | Date / Focus |
+|:---|:---|:---|
+| 📝 [Online Test 1-4](Online%20Exam/) | Series of collective subject online tests | 2020-2021 |
+| 📊 [MP UT-2](Online%20Exam/MP%20UT-2.png) | Unit Test 2 Assessment | 2020 |
+| 🧠 [Quizzes](Quizzes/) | Series of 6+ Microprocessor specific quizzes | [📂 Browse](Quizzes/) |
+| 🎓 [Semester Exam](Semester%20Exam/51112146_MP_Q.2&Q.3.pdf) | Final Semester Exam Submission (Digital) | 2020 |
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 5th Semester of Engineering @ University of Mumbai 👈🏻 </b> </p>
- 
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING'> ✌🏻 Back To Engineering ✌🏻 </a></p>
+<!-- SYLLABUS -->
+## Syllabus
+
+> 📋 **[Official CBCGS Syllabus](Syllabus/MU%20COMP%20TE%20BE.pdf)**  
+> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Microprocessor and Microprocessor Lab.
+
+---
+
+<!-- USAGE -->
+## Usage Guidelines
+
+This repository is openly shared to support learning and knowledge exchange across the academic community.
+
+**For Students**  
+Use these resources as reference materials for understanding assembly code, architectural concepts, and preparing for examinations. All content is organized for self-paced learning.
+
+**For Educators**  
+These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+---
+
+<!-- LICENSE -->
+## License
+
+This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
+
+**Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+
+---
+
+<!-- ABOUT -->
+## About This Repository
+
+**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
+**Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
+**University**: [University of Mumbai](https://mu.ac.in/)
+
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Microprocessor & Microprocessor Lab.
+
+**Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
+
+### Acknowledgments
+
+Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Microprocessors. Their clear teaching and continued support helped develop a strong understanding of low-level system architecture.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience during the challenging phase of online education.
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+  **[⬆ Back to Top](#microprocessor-and-microprocessor-lab)** &nbsp;·&nbsp; **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📝 The Wall](#the-wall)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [📄 Online Exam](#online-exam) &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏 Acknowledgments](#acknowledgments)**
+
+  <br>
+
+  **[🧪 Microprocessor Laboratory](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[📄 Assignments](Assignments/)** &nbsp;·&nbsp; **[🧠 Multiple Quizzes](Quizzes/)**
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
+  **Computer Engineering (B.E.) - University of Mumbai**
+
+  *Semester-wise curriculum, laboratories, projects, and academic notes.*
+
+</div>
