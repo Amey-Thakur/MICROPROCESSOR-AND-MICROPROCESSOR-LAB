@@ -1,7 +1,7 @@
 # Online Exam & Assessments
 
 > [!IMPORTANT]
-> **Online Learning (2020-2021)**: This section documents the assessment phase conducted during the COVID-19 pandemic. Most assessments, including Unit Tests and Semester Finals, were conducted online.
+> **Online Learning (2020-2021)**: This section documents the assessment phase conducted during the COVID-19 pandemic. All assessments, including Unit Tests and Semester Finals, were conducted online.
 
 ## Assessment Records
 

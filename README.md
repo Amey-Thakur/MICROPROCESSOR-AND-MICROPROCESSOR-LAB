@@ -16,7 +16,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [📝 The Wall](#the-wall) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [📄 Online Exam](#online-exam) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [📄 Online Exam](#online-exam) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -40,9 +40,9 @@ The curriculum encompasses several key domains in microprocessor systems:
 
 ### Repository Purpose
 
-This repository represents a curated collection of study materials, reference books, lab experiments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is to **preserve knowledge for continuous learning and future reference**.
+This repository represents a curated collection of study materials, reference books, lab experiments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
 
-As a computer engineer, understanding the underlying hardware-software interface is crucial for low-level system design, embedded systems, and performance optimization. This repository serves as my intellectual reference point for hardware fundamentals.
+As a computer engineer, understanding the underlying hardware-software interface is crucial for low-level system design, embedded systems, and performance optimization. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
 **Why this repository exists:**
 
@@ -76,27 +76,6 @@ This collection includes **9 comprehensive reference materials** covering all ma
 
 ---
 
-### The Wall
-
-<div align="center">
-
-**Collaborative Study Notes**
-
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/Amey-Thakur">
-<img src="https://github.com/Amey-Thakur.png" alt="Amey Thakur" width="150" height="150"/><br/>
-<b>Amey Thakur</b>
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ### Personal Preparation
 
 Study materials and planning resources for effective exam preparation:
@@ -114,10 +93,16 @@ Study materials and planning resources for effective exam preparation:
 
 Academic assignments for comprehensive learning and practice:
 
-| Resource | Description | View |
-|:---|:---|:-:|
-| 📝 **Assignment 1** | Architecture and Instruction Set Fundamentals | [📂](Assignments/Amey_B-50_MP_Assignment-1.pdf) |
-| 📝 **Assignment 2** | Interfacing and Advanced Microprocessors | [📂](Assignments/Amey_B-50_MP_Assignment-2.pdf) |
+<div align="center">
+
+**[📂 Browse All Assignments](Assignments/)**
+
+</div>
+
+| Resource | Description |
+|:---|:---|
+| 📝 [Assignment 1](Assignments/Amey_B-50_MP_Assignment-1.pdf) | Architecture and Instruction Set Fundamentals |
+| 📝 [Assignment 2](Assignments/Amey_B-50_MP_Assignment-2.pdf) | Interfacing and Advanced Microprocessors |
 
 ---
 
@@ -141,11 +126,11 @@ The laboratory component (CSL502) focuses on hands-on implementation of various 
 | Experiment | Topic | Objective | View |
 |:---|:---|:---|:-:|
 | **Experiment 1** | Basic Arithmetic | Addition, Subtraction, Multiplication, Division | [📂](Microprocessor%20Lab/Experiment-1/) |
-| **Experiment 2** | Conversions | Hex to BCD and BCD to Hex | [📂](Microprocessor%20Lab/Experiment-2/) |
+| **Experiment 2** | Code Conversions | Hex to BCD and BCD to Hex | [📂](Microprocessor%20Lab/Experiment-2/) |
 | **Experiment 3** | String Handling | Length of an Input String | [📂](Microprocessor%20Lab/Experiment-3/) |
 | **Experiment 4** | Sorting | Ascending and Descending sorting | [📂](Microprocessor%20Lab/Experiment-4/) |
 | **Experiment 5** | Array Search | Finding Minimum Number in an Array | [📂](Microprocessor%20Lab/Experiment-5/) |
-| **Experiment 6** | System Time | Display Current System Time | [📂](Microprocessor%20Lab/Experiment-6/) |
+| **Experiment 6** | System Interfacing | Display Current System Time | [📂](Microprocessor%20Lab/Experiment-6/) |
 | **Experiment 7** | Mathematical | Factorial of a Number | [📂](Microprocessor%20Lab/Experiment-7/) |
 | **Experiment 8** | Macros | Display String using Macros | [📂](Microprocessor%20Lab/Experiment-8/) |
 | **Experiment 9** | Array Split | Separate Even and Odd Numbers (Mixed C/ASM) | [📂](Microprocessor%20Lab/Experiment-9/) |
@@ -165,7 +150,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of various 
 |:---|:---|:---|
 | 📝 [Online Test 1-4](Online%20Exam/) | Series of collective subject online tests | 2020-2021 |
 | 📊 [MP UT-2](Online%20Exam/MP%20UT-2.png) | Unit Test 2 Assessment | 2020 |
-| 🧠 [Quizzes](Quizzes/) | Series of 6+ Microprocessor specific quizzes | [📂 Browse](Quizzes/) |
+| 🧠 [Quizzes](Quizzes/) | Series of 7 Microprocessor specific quizzes | [📂 Browse](Quizzes/) |
 | 🎓 [Semester Exam](Semester%20Exam/51112146_MP_Q.2&Q.3.pdf) | Final Semester Exam Submission (Digital) | 2020 |
 
 ---
@@ -223,7 +208,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <!-- FOOTER -->
 <div align="center">
 
-  **[⬆ Back to Top](#microprocessor-and-microprocessor-lab)** &nbsp;·&nbsp; **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[📝 The Wall](#the-wall)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [📄 Online Exam](#online-exam) &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏 Acknowledgments](#acknowledgments)**
+  **[⬆ Back to Top](#microprocessor-and-microprocessor-lab)** &nbsp;·&nbsp; **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [📄 Online Exam](#online-exam) &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏 Acknowledgments](#acknowledgments)**
 
   <br>
 
