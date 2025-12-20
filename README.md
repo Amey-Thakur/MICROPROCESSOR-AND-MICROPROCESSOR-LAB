@@ -132,7 +132,7 @@ The laboratory component (CSL502) focuses on hands-on implementation of various 
   [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-blue.svg)](Microprocessor%20Lab/)
   [![Status](https://img.shields.io/badge/Status-Complete-orange.svg)](Microprocessor%20Lab/)
 
-  **[📂 Browse All Experiments](Microprocessor%20Lab/)**
+  **[📂 Browse All Experiments](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
 </div>
 
@@ -409,7 +409,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[🧪 Microprocessor Lab](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[📄 Assignments](Assignments/)**
+  **[🧪 Microprocessor Lab](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[📄 Assignments](Assignments/)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
 </div>
 
