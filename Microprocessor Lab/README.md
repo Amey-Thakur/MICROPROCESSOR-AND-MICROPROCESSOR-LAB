@@ -29,6 +29,9 @@
 > [!TIP]
 > **Additional Learning Resource**: For more 8086 assembly programs beyond these experiments, check out my [8086 Assembly Language Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) repository — 161 programs I developed during this course for self-learning, covering arithmetic, conversions, sorting, searching, and more.
 
+> [!WARNING]
+> **Register Safety**: In 8086 assembly, direct hardware manipulation requires careful register management. Always push/pop registers when using interrupts to prevent data corruption. Ensure your data segments (DS, ES) are correctly initialized at the start of every program to avoid runtime memory errors.
+
 ---
 
 <!-- =========================================================================================
@@ -219,13 +222,13 @@ filename.exe
   <!-- Footer Navigation -->
   **[⬆ Back to Top](#microprocessor-lab)**
 
-  **[🔢 Exp 1](#-experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[🔄 Exp 2](#-experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[📝 Exp 3](#-experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[📊 Exp 4](#-experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[🔍 Exp 5](#-experiment-5-array-search-1-program)**
+  **[🔢 Experiment 1](#-experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[🔄 Experiment 2](#-experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[📝 Experiment 3](#-experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[📊 Experiment 4](#-experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[🔍 Experiment 5](#-experiment-5-array-search-1-program)**
 
-  **[🕐 Exp 6](#-experiment-6-system-interfacing-1-program)** &nbsp;·&nbsp; **[🧮 Exp 7](#-experiment-7-mathematical-operations-1-program)** &nbsp;·&nbsp; **[📦 Exp 8](#-experiment-8-macro-utilization-1-program)** &nbsp;·&nbsp; **[🔀 Exp 9](#-experiment-9-array-splitter-1-program)** &nbsp;·&nbsp; **[⬅➡ Exp 10](#-experiment-10-logical-shifting-1-program)**
+  **[🕐 Experiment 6](#-experiment-6-system-interfacing-1-program)** &nbsp;·&nbsp; **[🧮 Experiment 7](#-experiment-7-mathematical-operations-1-program)** &nbsp;·&nbsp; **[📦 Experiment 8](#-experiment-8-macro-utilization-1-program)** &nbsp;·&nbsp; **[🔀 Experiment 9](#-experiment-9-array-splitter-1-program)** &nbsp;·&nbsp; **[⬅➡ Experiment 10](#-experiment-10-logical-shifting-1-program)**
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  **[🏠 Back to Main Repository](../)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
 </div>
 
