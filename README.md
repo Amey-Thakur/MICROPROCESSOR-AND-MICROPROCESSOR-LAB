@@ -285,8 +285,6 @@ Microprocessor-specific quizzes conducted during the online course:
 > [!IMPORTANT]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2020. All examinations and assessments were conducted in a digital format.
 
-
-
 | Resource | Date | Marks | Description |
 |:---|:---:|:---:|:---|
 | 📊 [MP UT-2](Online%20Exam/MP%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
@@ -316,8 +314,6 @@ Final semester examination submission:
 ## Question Papers
 
 Previous year university question papers:
-
-
 
 | Exam Session | Syllabus | Resource |
 |:---|:---:|:-:|
