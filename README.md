@@ -97,16 +97,12 @@ Study materials and planning resources for effective exam preparation:
 
 Academic assignments for comprehensive learning and practice:
 
-<div align="center">
+| # | Assignment | Description | Date | Marks | Link |
+|:-:|:---|:---|:---:|:---:|:---:|
+| 1 | **Assignment 1** | Architecture and Instruction Set Fundamentals | November 28, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_MP_Assignment-1.pdf) |
+| 2 | **Assignment 2** | Interfacing and Advanced Microprocessors | November 28, 2020 | 10/10 | [� View](Assignments/Amey_B-50_MP_Assignment-2.pdf) |
 
-**[📂 Browse All Assignments](Assignments/)**
-
-</div>
-
-| Resource | Date | Marks | Description |
-|:---|:---:|:---:|:---|
-| 📝 [Assignment 1](Assignments/Amey_B-50_MP_Assignment-1.pdf) | November 28, 2020 | 10/10 | Architecture and Instruction Set Fundamentals |
-| 📝 [Assignment 2](Assignments/Amey_B-50_MP_Assignment-2.pdf) | November 28, 2020 | 10/10 | Interfacing and Advanced Microprocessors |
+**Topics Covered**: 8086 Architecture (Internal architecture, memory segmentation) · Instruction Set · Addressing Modes · Interfacing (8255 PPI, 8259 PIC) · Advanced Processors (80286, 80386, Pentium)
 
 ---
 
