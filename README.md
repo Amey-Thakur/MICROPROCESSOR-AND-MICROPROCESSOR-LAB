@@ -126,9 +126,9 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](Microprocessor%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-blueviolet.svg)](Microprocessor%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](Microprocessor%20Lab/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-%23A6192E.svg)](Microprocessor%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-orange.svg)](Microprocessor%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-green.svg)](Microprocessor%20Lab/)
 
   **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
@@ -287,11 +287,7 @@ Microprocessor-specific quizzes conducted during the online course:
 > [!IMPORTANT]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2020. All examinations and assessments were conducted in a digital format.
 
-<div align="center">
 
-**[📂 Browse All Online Tests](Online%20Exam/)**
-
-</div>
 
 | Resource | Date | Marks | Description |
 |:---|:---:|:---:|:---|
