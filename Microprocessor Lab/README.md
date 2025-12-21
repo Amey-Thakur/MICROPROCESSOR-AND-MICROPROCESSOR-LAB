@@ -210,16 +210,6 @@ filename.exe
 
 ---
 
-<!-- =========================================================================================
-                                     LAB MANUAL
-     ========================================================================================= -->
-## 📖 Lab Manual
-
-| Resource | Description |
-|:---|:---|
-| [Microprocessor Lab.pdf](../Reference%20Books/Microprocessor%20Lab.pdf) | Complete laboratory manual with all experiments |
-
----
 
 <!-- =========================================================================================
                                      FOOTER SECTION
@@ -235,7 +225,7 @@ filename.exe
 
   <br>
 
-  **[🏠 Back to Main Repository](../)** &nbsp;·&nbsp; **[📄 Assignments](../Assignments/)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
+  **[🏠 Back to Main Repository](../)**
 
 </div>
 
