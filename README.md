@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🏫 Classwork](#classwork) &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [💻 Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📝 Question Papers](#question-papers) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🏫 Classwork](#classwork) &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [💻 Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📝 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -348,6 +348,19 @@ Previous year university question papers:
 ---
 
 <!-- =========================================================================================
+                                     SUBMISSION COMPLETION REPORT
+     ========================================================================================= -->
+## Submission Completion Report
+
+Course completion documentation with exit survey:
+
+| Document | Description | Link |
+|:---|:---|:---:|
+| **Submission Completion Report** | Final coursework and lab submission report with exit survey | [📋 View](Amey_B-50_MP_Submission_Report.pdf) |
+
+---
+
+<!-- =========================================================================================
                                      SYLLABUS SECTION
      ========================================================================================= -->
 ## Syllabus
@@ -420,7 +433,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
   <!-- Footer Navigation -->
   **[⬆ Back to Top](#microprocessor-and-microprocessor-lab)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🏫 Classwork](#classwork)** &nbsp;·&nbsp; **[🧪 Laboratory](#microprocessor-laboratory)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[💻 Online Exam](#online-exam)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📝 Question Papers](#question-papers)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🏫 Classwork](#classwork)** &nbsp;·&nbsp; **[🧪 Laboratory](#microprocessor-laboratory)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[💻 Online Exam](#online-exam)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📝 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✅ Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
 
   <br>
 
