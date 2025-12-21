@@ -9,8 +9,9 @@
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
   [![Programs](https://img.shields.io/badge/Programs-28-yellowgreen.svg)](#laboratory-experiments)
-  [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-blueviolet.svg)](./)
+  [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-blueviolet.svg)](./
 
+)
 
   **A comprehensive collection of 28 programs across 10 experiments covering Intel 8086 microprocessor programming including arithmetic operations, string handling, sorting algorithms, system interfacing, and mixed C/Assembly programming.**
 
@@ -55,11 +56,11 @@ Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers
      ========================================================================================= -->
 ## 🔄 Experiment 2: Code Conversions (1 Program)
 
-Menu-driven program for number system conversions.
+Converting data between different number systems (Binary, Decimal, Hexadecimal).
 
-| # | Program | Description |
-|:---|:---|:---|
-| 1 | [Hex_to_BCD_and_BCD_to_Hex.asm](Experiment-2/Source%20Code/Hex_to_BCD_and_BCD_to_Hex.asm) | Hexadecimal to BCD and BCD to Hexadecimal conversion |
+| # | Program | Algorithm | Description |
+|:---|:---|:---|:---|
+| 1 | [BCD_To_Binary_Conversion.asm](Experiment-2/Source%20Code/BCD_To_Binary_Conversion.asm) | Conversion | BCD to Binary conversion logic |
 
 ---
 
@@ -68,11 +69,11 @@ Menu-driven program for number system conversions.
      ========================================================================================= -->
 ## 📝 Experiment 3: String Handling (1 Program)
 
-String manipulation using DOS interrupts.
+String manipulation and character processing operations.
 
-| # | Program | Description |
-|:---|:---|:---|
-| 1 | [Length_Of_An_Input_String.asm](Experiment-3/Source%20Code/Length_Of_An_Input_String.asm) | Calculate length of an input string using BIOS/DOS interrupts |
+| # | Program | Algorithm | Description |
+|:---|:---|:---|:---|
+| 1 | [String_Manipulation.asm](Experiment-3/Source%20Code/String_Manipulation.asm) | String Ops | Length, copy, concatenate, compare |
 
 ---
 
@@ -81,12 +82,12 @@ String manipulation using DOS interrupts.
      ========================================================================================= -->
 ## 📊 Experiment 4: Sorting Algorithms (2 Programs)
 
-Implementation of Bubble Sort algorithm for array organization.
+Implementation of classic sorting techniques for array organization.
 
 | # | Program | Algorithm | Description |
 |:---|:---|:---|:---|
-| 1 | [Ascending_Order_Sorting.asm](Experiment-4/Source%20Code/Ascending_Order_Sorting.asm) | Bubble Sort | Sort array elements in ascending order |
-| 2 | [Descending_Order_Sorting.asm](Experiment-4/Source%20Code/Descending_Order_Sorting.asm) | Bubble Sort | Sort array elements in descending order |
+| 1 | [Bubble_Sort.asm](Experiment-4/Source%20Code/Bubble_Sort.asm) | Bubble Sort | Ascending order sorting |
+| 2 | [Selection_Sort.asm](Experiment-4/Source%20Code/Selection_Sort.asm) | Selection Sort | Minimum element selection |
 
 ---
 
@@ -95,11 +96,11 @@ Implementation of Bubble Sort algorithm for array organization.
      ========================================================================================= -->
 ## 🔍 Experiment 5: Array Search (1 Program)
 
-Finding minimum value in an array.
+Searching for specific elements within arrays.
 
-| # | Program | Description |
-|:---|:---|:---|
-| 1 | [Minimum_Number_In_An_Array.asm](Experiment-5/Source%20Code/Minimum_Number_In_An_Array.asm) | Traverse array and identify the smallest numerical value |
+| # | Program | Algorithm | Description |
+|:---|:---|:---|:---|
+| 1 | [Linear_Search.asm](Experiment-5/Source%20Code/Linear_Search.asm) | Linear Search | Sequential element search |
 
 ---
 
@@ -108,11 +109,11 @@ Finding minimum value in an array.
      ========================================================================================= -->
 ## 🕐 Experiment 6: System Interfacing (1 Program)
 
-Retrieving system information using BIOS/DOS interrupts.
+Interfacing with system hardware and BIOS interrupts.
 
-| # | Program | Description |
-|:---|:---|:---|
-| 1 | [Display_System_Time.asm](Experiment-6/Source%20Code/Display_System_Time.asm) | Display current system time in HH:MM:SS format |
+| # | Program | Algorithm | Description |
+|:---|:---|:---|:---|
+| 1 | [Display_System_Time.asm](Experiment-6/Source%20Code/Display_System_Time.asm) | BIOS INT 21h | Real-time clock display |
 
 ---
 
@@ -123,9 +124,9 @@ Retrieving system information using BIOS/DOS interrupts.
 
 Advanced mathematical computations.
 
-| # | Program | Description |
-|:---|:---|:---|
-| 1 | [Factorial_Of_A_Number.asm](Experiment-7/Source%20Code/Factorial_Of_A_Number.asm) | Iterative calculation of factorial |
+| # | Program | Algorithm | Description |
+|:---|:---|:---|:---|
+| 1 | [Factorial_Calculation.asm](Experiment-7/Source%20Code/Factorial_Calculation.asm) | Factorial | Recursive/Iterative factorial |
 
 ---
 
@@ -134,11 +135,11 @@ Advanced mathematical computations.
      ========================================================================================= -->
 ## 📦 Experiment 8: Macro Utilization (1 Program)
 
-Demonstrating modularity using 8086 Macros.
+Using macros for code reusability and modularity.
 
-| # | Program | Description |
-|:---|:---|:---|
-| 1 | [Display_String_Using_Macro.asm](Experiment-8/Source%20Code/Display_String_Using_Macro.asm) | Display strings using macro definitions for code reuse |
+| # | Program | Algorithm | Description |
+|:---|:---|:---|:---|
+| 1 | [Macro_Based_Operations.asm](Experiment-8/Source%20Code/Macro_Based_Operations.asm) | Macros | Reusable code blocks |
 
 ---
 
@@ -147,11 +148,11 @@ Demonstrating modularity using 8086 Macros.
      ========================================================================================= -->
 ## 🔀 Experiment 9: Array Splitter (1 Program)
 
-Mixed C and Assembly language programming.
+Dividing arrays based on specific criteria.
 
-| # | Program | Language | Description |
-|:---|:---|:---:|:---|
-| 1 | [Separate_Even_And_Odd_Numbers.c](Experiment-9/Source%20Code/Separate_Even_And_Odd_Numbers.c) | C & ASM | Separate even and odd numbers from a dataset |
+| # | Program | Algorithm | Description |
+|:---|:---|:---|:---|
+| 1 | [Even_Odd_Array_Splitter.asm](Experiment-9/Source%20Code/Even_Odd_Array_Splitter.asm) | Array Split | Separate even/odd elements |
 
 ---
 
@@ -160,11 +161,11 @@ Mixed C and Assembly language programming.
      ========================================================================================= -->
 ## ⬅➡ Experiment 10: Logical Shifting (1 Program)
 
-Bitwise operations using mixed programming.
+Bit manipulation through logical shift operations.
 
-| # | Program | Language | Description |
-|:---|:---|:---:|:---|
-| 1 | [Shift_Number_Multiple_Times.c](Experiment-10/Source%20Code/Shift_Number_Multiple_Times.c) | C & ASM | Perform bitwise left and right shifts on numerical values |
+| # | Program | Algorithm | Description |
+|:---|:---|:---|:---|
+| 1 | [Logical_Shift_Operations.asm](Experiment-10/Source%20Code/Logical_Shift_Operations.asm) | Bit Shift | Left/Right logical shifts |
 
 ---
 
@@ -173,20 +174,21 @@ Bitwise operations using mixed programming.
      ========================================================================================= -->
 ## 🚀 How to Use
 
-### Running Assembly Programs (Experiments 1-8)
-Requires TASM/MASM assembler and DOSBox.
-```bash
-tasm filename.asm
-tlink filename.obj
-filename.exe
-```
-
-### Running Mixed C/ASM Programs (Experiments 9-10)
-Requires Turbo C++ with inline assembly support.
-```bash
-tcc filename.c
-filename.exe
-```
+### Running Assembly Programs
+1. **Assembler**: Use **MASM** (Microsoft Macro Assembler) or **TASM** (Turbo Assembler)
+2. **Emulator**: Recommended: **EMU8086** or **DOSBox**
+3. **Execution Steps**:
+   ```bash
+   # For MASM
+   masm filename.asm;
+   link filename.obj;
+   filename.exe
+   
+   # For TASM
+   tasm filename.asm
+   tlink filename.obj
+   filename.exe
+   ```
 
 ---
 
@@ -196,19 +198,18 @@ filename.exe
 ## 📖 Learning Path
 
 **Beginner Level:**
-- Start with **Experiment 1** to understand basic 8086 arithmetic instructions.
-- Learn register manipulation and memory addressing.
+- Start with **Experiment 1** to understand basic arithmetic and register usage
+- Practice data movement instructions (MOV, XCHG)
 
 **Intermediate Level:**
-- Explore **Experiments 2-5** for data manipulation and control flow.
-- Understand loops, comparisons, and DOS interrupts.
+- Explore **Experiments 2, 3, 4, 5** for conversions, strings, sorting, and searching
+- Master loop constructs and conditional jumps
 
 **Advanced Level:**
-- Study **Experiments 6-8** for system interfacing and macros.
-- Master **Experiments 9-10** for mixed C/Assembly programming.
+- Study **Experiments 6, 7, 8, 9, 10** for BIOS interrupts, macros, and bit manipulation
+- Learn stack operations and procedure calls
 
 ---
-
 
 <!-- =========================================================================================
                                      FOOTER SECTION
