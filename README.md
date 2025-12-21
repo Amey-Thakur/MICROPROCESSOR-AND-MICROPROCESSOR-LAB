@@ -1,4 +1,6 @@
-<!-- HEADER -->
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
@@ -8,21 +10,23 @@
   ### CSC501 & CSL501 · Semester V · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-orange.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-green.svg)](https://ternaengg.ac.in/)
+  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Microprocessor (MP) and Microprocessor Laboratory (MP Lab), covering 8086 architecture, assembly language programming, system interfacing, and practical implementations.**
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [📋 Classwork](#classwork) &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [💻 Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📄 Question Papers](#question-papers) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏 Acknowledgments](#acknowledgments)
+  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [📋 Classwork](#classwork) &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [💻 Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📄 Question Papers](#question-papers) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
 
 </div>
 
 ---
 
-<!-- OVERVIEW -->
+<!-- =========================================================================================
+                                     OVERVIEW SECTION
+     ========================================================================================= -->
 ## Overview
 
 Microprocessor (CSC501) and Microprocessor Lab (CSL501) are core subjects in the Third Year (Semester V) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of the 8086 microprocessor architecture, its instruction set, peripheral interfacing, and the principles of low-level system programming.
@@ -55,7 +59,9 @@ All materials in this repository were gathered, organized, and documented by me 
 
 ---
 
-<!-- CONTENTS -->
+<!-- =========================================================================================
+                                     CONTENTS SECTION
+     ========================================================================================= -->
 ## Repository Contents
 
 ### Reference Books
@@ -121,23 +127,25 @@ Lab classwork sessions conducted during the online course:
 
 ---
 
-<!-- LABORATORY -->
+<!-- =========================================================================================
+                                     LABORATORY SECTION
+     ========================================================================================= -->
 ## Microprocessor Laboratory
 
 The laboratory component (CSL501) focuses on hands-on implementation of various 8086 assembly language programs using TASM/MASM, providing practical experience in low-level programming and data manipulation.
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-brightgreen.svg)](Microprocessor%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-blue.svg)](Microprocessor%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Complete-orange.svg)](Microprocessor%20Lab/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](Microprocessor%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-blueviolet.svg)](Microprocessor%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](Microprocessor%20Lab/)
 
   **[📂 Browse All Experiments](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
 </div>
 
 > [!TIP]
-> **Additional Learning Resource:** The [8086 Assembly Language Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) repository contains 161 programs I developed during this course for self-learning. It covers arithmetic operations, conversions, sorting, searching, expressions, procedures, and more — a comprehensive practice collection for mastering 8086 assembly programming.
+> **Additional Learning Resource**: The [8086 Assembly Language Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) repository contains 161 programs I developed during this course for self-learning. It covers arithmetic operations, conversions, sorting, searching, expressions, procedures, and more — a comprehensive practice collection for mastering 8086 assembly programming.
 
 ### Laboratory Experiments
 
@@ -256,7 +264,9 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 
 ---
 
-<!-- QUIZZES -->
+<!-- =========================================================================================
+                                     QUIZZES SECTION
+     ========================================================================================= -->
 ## Quizzes
 
 Microprocessor-specific quizzes conducted during the online course:
@@ -279,7 +289,9 @@ Microprocessor-specific quizzes conducted during the online course:
 
 ---
 
-<!-- ONLINE EXAM -->
+<!-- =========================================================================================
+                                     ONLINE EXAM SECTION
+     ========================================================================================= -->
 ## Online Exam
 
 > [!IMPORTANT]
@@ -301,7 +313,9 @@ Microprocessor-specific quizzes conducted during the online course:
 
 ---
 
-<!-- SEMESTER EXAM -->
+<!-- =========================================================================================
+                                     SEMESTER EXAM SECTION
+     ========================================================================================= -->
 ## Semester Exam
 
 Final semester examination submission:
@@ -312,7 +326,9 @@ Final semester examination submission:
 
 ---
 
-<!-- QUESTION PAPERS -->
+<!-- =========================================================================================
+                                     QUESTION PAPERS SECTION
+     ========================================================================================= -->
 ## Question Papers
 
 Previous year university question papers:
@@ -331,36 +347,22 @@ Previous year university question papers:
 
 ---
 
-<!-- SUBMISSION REPORT -->
-## Submission Report
-
-Comprehensive submission documentation for the Microprocessor course:
-
-| Resource | Description |
-|:---|:---|
-| 📄 [MP Submission Report](Submission%20Report/Amey_B-50_MP_Submission_Report.pdf) | Complete coursework submission record |
-
-**Report Contents:**
-
-| Sr.No. | Particulars | Page |
-|:---:|:---|:---:|
-| 1 | Experiments (1 to 10) | 2 |
-| 2 | Assignments (1 & 2) | 8 |
-| 3 | Quizzes (1 to 7) | 9 |
-| 4 | Course Exit Survey | 15 |
-| 5 | Lab Exit Survey | 15 |
-
----
-
-<!-- SYLLABUS -->
+<!-- =========================================================================================
+                                     SYLLABUS SECTION
+     ========================================================================================= -->
 ## Syllabus
 
 > 📋 **[Official CBCGS Syllabus](Syllabus/MU%20COMP%20TE%20BE.pdf)**  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Microprocessor and Microprocessor Lab.
 
+> [!IMPORTANT]
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
+
 ---
 
-<!-- USAGE -->
+<!-- =========================================================================================
+                                     USAGE GUIDELINES SECTION
+     ========================================================================================= -->
 ## Usage Guidelines
 
 This repository is openly shared to support learning and knowledge exchange across the academic community.
@@ -376,16 +378,21 @@ The documentation and organization may provide insights into academic resource c
 
 ---
 
-<!-- LICENSE -->
+<!-- =========================================================================================
+                                     LICENSE SECTION
+     ========================================================================================= -->
 ## License
 
 This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
 
-**Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+> [!NOTE]
+> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
 ---
 
-<!-- ABOUT -->
+<!-- =========================================================================================
+                                     ABOUT SECTION
+     ========================================================================================= -->
 ## About This Repository
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
@@ -405,10 +412,15 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
 ---
 
-<!-- FOOTER -->
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
 <div align="center">
 
-  **[⬆ Back to Top](#microprocessor-and-microprocessor-lab)** &nbsp;·&nbsp; **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[📋 Classwork](#classwork)** &nbsp;·&nbsp; **[🧪 Laboratory](#microprocessor-laboratory)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[💻 Online Exam](#online-exam)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📄 Question Papers](#question-papers)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏 Acknowledgments](#acknowledgments)**
+  <!-- Footer Navigation -->
+  **[⬆ Back to Top](#microprocessor-and-microprocessor-lab)**
+
+  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[📋 Classwork](#classwork)** &nbsp;·&nbsp; **[🧪 Laboratory](#microprocessor-laboratory)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[💻 Online Exam](#online-exam)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📄 Question Papers](#question-papers)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
 
   <br>
 

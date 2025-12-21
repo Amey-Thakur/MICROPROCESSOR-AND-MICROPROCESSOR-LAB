@@ -1,4 +1,6 @@
-<!-- HEADER -->
+<!-- =========================================================================================
+                                     HEADER SECTION
+     ========================================================================================= -->
 <div align="center">
 
   # Microprocessor Lab
@@ -6,33 +8,32 @@
   ### CSL501 · Semester V · Computer Engineering
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Experiments](https://img.shields.io/badge/Experiments-10-green.svg)](#quick-navigation)
-  [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-orange.svg)](.)
+  [![Programs](https://img.shields.io/badge/Programs-28-yellowgreen.svg)](#laboratory-experiments)
+  [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-blueviolet.svg)](./)
+  [![Lab Manual](https://img.shields.io/badge/Lab%20Manual-Available-brightgreen.svg)](../Reference%20Books/Microprocessor%20Lab.pdf)
 
-  **A comprehensive collection of 10 experiments covering Intel 8086 microprocessor programming including arithmetic operations, string handling, sorting algorithms, system interfacing, and mixed C/Assembly programming.**
+  **A comprehensive collection of 28 programs across 10 experiments covering Intel 8086 microprocessor programming including arithmetic operations, string handling, sorting algorithms, system interfacing, and mixed C/Assembly programming.**
 
-</div>
+  ---
 
----
+  **[🔢 Experiment 1](#-experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[🔄 Experiment 2](#-experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[📝 Experiment 3](#-experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[📊 Experiment 4](#-experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[🔍 Experiment 5](#-experiment-5-array-search-1-program)**
 
-<div align="center">
+  **[🕐 Experiment 6](#-experiment-6-system-interfacing-1-program)** &nbsp;·&nbsp; **[🧮 Experiment 7](#-experiment-7-mathematical-operations-1-program)** &nbsp;·&nbsp; **[📦 Experiment 8](#-experiment-8-macro-utilization-1-program)** &nbsp;·&nbsp; **[🔀 Experiment 9](#-experiment-9-array-splitter-1-program)** &nbsp;·&nbsp; **[⬅➡ Experiment 10](#-experiment-10-logical-shifting-1-program)**
 
-  [🔢 Experiment 1](#-experiment-1-basic-arithmetic-8-programs) &nbsp;·&nbsp; [🔄 Experiment 2](#-experiment-2-code-conversions-1-program) &nbsp;·&nbsp; [📝 Experiment 3](#-experiment-3-string-handling-1-program) &nbsp;·&nbsp; [📊 Experiment 4](#-experiment-4-sorting-algorithms-2-programs) &nbsp;·&nbsp; [🔍 Experiment 5](#-experiment-5-array-search-1-program)
-
-  [🕐 Experiment 6](#-experiment-6-system-interfacing-1-program) &nbsp;·&nbsp; [🧮 Experiment 7](#-experiment-7-mathematical-operations-1-program) &nbsp;·&nbsp; [📦 Experiment 8](#-experiment-8-macro-utilization-1-program) &nbsp;·&nbsp; [🔀 Experiment 9](#-experiment-9-array-splitter-1-program) &nbsp;·&nbsp; [⬅➡ Experiment 10](#-experiment-10-logical-shifting-1-program)
-
-  [🚀 How to Use](#-how-to-use) &nbsp;·&nbsp; [📖 Learning Path](#-learning-path)
+  **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
 
 </div>
 
 ---
 
 > [!TIP]
-> **Additional Learning Resource:** For more 8086 assembly programs beyond these experiments, check out my [8086 Assembly Language Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) repository — 161 programs I developed during this course for self-learning, covering arithmetic, conversions, sorting, searching, and more.
+> **Additional Learning Resource**: For more 8086 assembly programs beyond these experiments, check out my [8086 Assembly Language Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) repository — 161 programs I developed during this course for self-learning, covering arithmetic, conversions, sorting, searching, and more.
 
 ---
 
-<!-- EXPERIMENT 1 -->
+<!-- =========================================================================================
+                                     EXPERIMENT 1
+     ========================================================================================= -->
 ## 🔢 Experiment 1: Basic Arithmetic (8 Programs)
 
 Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers.
@@ -50,7 +51,9 @@ Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers
 
 ---
 
-<!-- EXPERIMENT 2 -->
+<!-- =========================================================================================
+                                     EXPERIMENT 2
+     ========================================================================================= -->
 ## 🔄 Experiment 2: Code Conversions (1 Program)
 
 Menu-driven program for number system conversions.
@@ -61,7 +64,9 @@ Menu-driven program for number system conversions.
 
 ---
 
-<!-- EXPERIMENT 3 -->
+<!-- =========================================================================================
+                                     EXPERIMENT 3
+     ========================================================================================= -->
 ## 📝 Experiment 3: String Handling (1 Program)
 
 String manipulation using DOS interrupts.
@@ -72,7 +77,9 @@ String manipulation using DOS interrupts.
 
 ---
 
-<!-- EXPERIMENT 4 -->
+<!-- =========================================================================================
+                                     EXPERIMENT 4
+     ========================================================================================= -->
 ## 📊 Experiment 4: Sorting Algorithms (2 Programs)
 
 Implementation of Bubble Sort algorithm for array organization.
@@ -84,7 +91,9 @@ Implementation of Bubble Sort algorithm for array organization.
 
 ---
 
-<!-- EXPERIMENT 5 -->
+<!-- =========================================================================================
+                                     EXPERIMENT 5
+     ========================================================================================= -->
 ## 🔍 Experiment 5: Array Search (1 Program)
 
 Finding minimum value in an array.
@@ -95,7 +104,9 @@ Finding minimum value in an array.
 
 ---
 
-<!-- EXPERIMENT 6 -->
+<!-- =========================================================================================
+                                     EXPERIMENT 6
+     ========================================================================================= -->
 ## 🕐 Experiment 6: System Interfacing (1 Program)
 
 Retrieving system information using BIOS/DOS interrupts.
@@ -106,7 +117,9 @@ Retrieving system information using BIOS/DOS interrupts.
 
 ---
 
-<!-- EXPERIMENT 7 -->
+<!-- =========================================================================================
+                                     EXPERIMENT 7
+     ========================================================================================= -->
 ## 🧮 Experiment 7: Mathematical Operations (1 Program)
 
 Advanced mathematical computations.
@@ -117,7 +130,9 @@ Advanced mathematical computations.
 
 ---
 
-<!-- EXPERIMENT 8 -->
+<!-- =========================================================================================
+                                     EXPERIMENT 8
+     ========================================================================================= -->
 ## 📦 Experiment 8: Macro Utilization (1 Program)
 
 Demonstrating modularity using 8086 Macros.
@@ -128,7 +143,9 @@ Demonstrating modularity using 8086 Macros.
 
 ---
 
-<!-- EXPERIMENT 9 -->
+<!-- =========================================================================================
+                                     EXPERIMENT 9
+     ========================================================================================= -->
 ## 🔀 Experiment 9: Array Splitter (1 Program)
 
 Mixed C and Assembly language programming.
@@ -139,7 +156,9 @@ Mixed C and Assembly language programming.
 
 ---
 
-<!-- EXPERIMENT 10 -->
+<!-- =========================================================================================
+                                     EXPERIMENT 10
+     ========================================================================================= -->
 ## ⬅➡ Experiment 10: Logical Shifting (1 Program)
 
 Bitwise operations using mixed programming.
@@ -150,7 +169,9 @@ Bitwise operations using mixed programming.
 
 ---
 
-<!-- HOW TO USE -->
+<!-- =========================================================================================
+                                     HOW TO USE
+     ========================================================================================= -->
 ## 🚀 How to Use
 
 ### Running Assembly Programs (Experiments 1-8)
@@ -170,7 +191,9 @@ filename.exe
 
 ---
 
-<!-- LEARNING PATH -->
+<!-- =========================================================================================
+                                     LEARNING PATH
+     ========================================================================================= -->
 ## 📖 Learning Path
 
 **Beginner Level:**
@@ -187,7 +210,9 @@ filename.exe
 
 ---
 
-<!-- LAB MANUAL -->
+<!-- =========================================================================================
+                                     LAB MANUAL
+     ========================================================================================= -->
 ## 📖 Lab Manual
 
 | Resource | Description |
@@ -196,16 +221,21 @@ filename.exe
 
 ---
 
-<!-- FOOTER -->
+<!-- =========================================================================================
+                                     FOOTER SECTION
+     ========================================================================================= -->
 <div align="center">
 
-  **[⬆ Back to Top](#microprocessor-lab)** &nbsp;·&nbsp; **[🔢 Exp 1](#-experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[🔄 Exp 2](#-experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[📝 Exp 3](#-experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[📊 Exp 4](#-experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[🔍 Exp 5](#-experiment-5-array-search-1-program)**
+  <!-- Footer Navigation -->
+  **[⬆ Back to Top](#microprocessor-lab)**
+
+  **[🔢 Exp 1](#-experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[🔄 Exp 2](#-experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[📝 Exp 3](#-experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[📊 Exp 4](#-experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[🔍 Exp 5](#-experiment-5-array-search-1-program)**
 
   **[🕐 Exp 6](#-experiment-6-system-interfacing-1-program)** &nbsp;·&nbsp; **[🧮 Exp 7](#-experiment-7-mathematical-operations-1-program)** &nbsp;·&nbsp; **[📦 Exp 8](#-experiment-8-macro-utilization-1-program)** &nbsp;·&nbsp; **[🔀 Exp 9](#-experiment-9-array-splitter-1-program)** &nbsp;·&nbsp; **[⬅➡ Exp 10](#-experiment-10-logical-shifting-1-program)**
 
   <br>
 
-  **[🏠 Back to Main Repository](../)** &nbsp;·&nbsp; **[📄 Assignments](../Assignments/)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
+  **[🏠 Back to Main Repository](../)**
 
 </div>
 
@@ -213,9 +243,9 @@ filename.exe
 
 <div align="center">
 
-  ### [Microprocessor and Microprocessor Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB)
+  ### [Microprocessor Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/Microprocessor%20Lab)
 
-  **CSC501 & CSL501 · Semester V · Computer Engineering**
+  **CSL501 · Semester V · Computer Engineering**
 
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
