@@ -319,11 +319,7 @@ Final semester examination submission:
 
 Previous year university question papers:
 
-<div align="center">
 
-**[📂 Browse All Question Papers](Question%20Papers/)**
-
-</div>
 
 | Exam Session | Syllabus | Resource |
 |:---|:---:|:-:|
