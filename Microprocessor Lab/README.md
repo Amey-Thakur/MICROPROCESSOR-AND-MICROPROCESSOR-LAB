@@ -247,7 +247,7 @@ Bit manipulation through logical shift operations.
 
 <div align="center">
 
-  ### [Microprocessor Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/Microprocessor%20Lab)
+  ### [Microprocessor and Microprocessor Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB/tree/main/Microprocessor%20Lab)
 
   **CSL501 · Semester V · Computer Engineering**
 
