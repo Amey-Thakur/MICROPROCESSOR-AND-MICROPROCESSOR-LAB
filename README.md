@@ -137,7 +137,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 
 ### Laboratory Experiments
 
-| Experiment | Topic | Objective | Due Date | Marks | Source Code |
+| Experiment | Topic | Objective | Date | Marks | Source Code |
 |:-:|:---|:---|:-:|:-:|:-:|
 | 1 | Basic Arithmetic | Addition, Subtraction, Multiplication, Division | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-1/) |
 | 2 | Code Conversions | Hex to BCD and BCD to Hex | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-2/) |
