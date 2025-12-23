@@ -30,6 +30,48 @@
 ---
 
 <!-- =========================================================================================
+                                     HOW TO USE
+     ========================================================================================= -->
+## How to Use
+
+### Running Assembly Programs
+1. **Assembler**: Use **MASM** (Microsoft Macro Assembler) or **TASM** (Turbo Assembler)
+2. **Emulator**: Recommended: **EMU8086** or **DOSBox**
+3. **Execution Steps**:
+   ```bash
+   # For MASM
+   masm filename.asm;
+   link filename.obj;
+   filename.exe
+   
+   # For TASM
+   tasm filename.asm
+   tlink filename.obj
+   filename.exe
+   ```
+
+---
+
+<!-- =========================================================================================
+                                     LEARNING PATH
+     ========================================================================================= -->
+## Learning Path
+
+**Beginner Level:**
+- Start with **Experiment 1** to understand basic arithmetic and register usage
+- Practice data movement instructions (MOV, XCHG)
+
+**Intermediate Level:**
+- Explore **Experiments 2, 3, 4, 5** for conversions, strings, sorting, and searching
+- Master loop constructs and conditional jumps
+
+**Advanced Level:**
+- Study **Experiments 6, 7, 8, 9, 10** for BIOS interrupts, macros, and bit manipulation
+- Learn stack operations and procedure calls
+
+---
+
+<!-- =========================================================================================
                                      EXPERIMENT 1
      ========================================================================================= -->
 ## Experiment 1: Basic Arithmetic (8 Programs)
@@ -167,47 +209,6 @@ Bit manipulation through logical shift operations.
 
 ---
 
-<!-- =========================================================================================
-                                     HOW TO USE
-     ========================================================================================= -->
-## How to Use
-
-### Running Assembly Programs
-1. **Assembler**: Use **MASM** (Microsoft Macro Assembler) or **TASM** (Turbo Assembler)
-2. **Emulator**: Recommended: **EMU8086** or **DOSBox**
-3. **Execution Steps**:
-   ```bash
-   # For MASM
-   masm filename.asm;
-   link filename.obj;
-   filename.exe
-   
-   # For TASM
-   tasm filename.asm
-   tlink filename.obj
-   filename.exe
-   ```
-
----
-
-<!-- =========================================================================================
-                                     LEARNING PATH
-     ========================================================================================= -->
-## Learning Path
-
-**Beginner Level:**
-- Start with **Experiment 1** to understand basic arithmetic and register usage
-- Practice data movement instructions (MOV, XCHG)
-
-**Intermediate Level:**
-- Explore **Experiments 2, 3, 4, 5** for conversions, strings, sorting, and searching
-- Master loop constructs and conditional jumps
-
-**Advanced Level:**
-- Study **Experiments 6, 7, 8, 9, 10** for BIOS interrupts, macros, and bit manipulation
-- Learn stack operations and procedure calls
-
----
 
 <!-- =========================================================================================
                                      LAB MANUAL
