@@ -138,17 +138,17 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 ### Laboratory Experiments
 
 | Experiment | Topic | Objective | Due Date | Marks | Source Code |
-|:---|:---|:---|:-:|:-:|:-:|
-| **Experiment 1** | Basic Arithmetic | Addition, Subtraction, Multiplication, Division | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-1/) |
-| **Experiment 2** | Code Conversions | Hex to BCD and BCD to Hex | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-2/) |
-| **Experiment 3** | String Handling | Length of an Input String | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-3/) |
-| **Experiment 4** | Sorting | Ascending and Descending sorting | September 20, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-4/) |
-| **Experiment 5** | Array Search | Finding Minimum Number in an Array | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-5/) |
-| **Experiment 6** | System Interfacing | Display Current System Time | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-6/) |
-| **Experiment 7** | Mathematical | Factorial of a Number | October 15, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-7/) |
-| **Experiment 8** | Macros | Display String using Macros | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-8/) |
-| **Experiment 9** | Array Split | Separate Even and Odd Numbers (Mixed C/ASM) | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-9/) |
-| **Experiment 10**| Logical Shift | Shift Number Multiple Times (Mixed C/ASM) | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-10/) |
+|:-:|:---|:---|:-:|:-:|:-:|
+| 1 | Basic Arithmetic | Addition, Subtraction, Multiplication, Division | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-1/) |
+| 2 | Code Conversions | Hex to BCD and BCD to Hex | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-2/) |
+| 3 | String Handling | Length of an Input String | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-3/) |
+| 4 | Sorting | Ascending and Descending sorting | September 20, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-4/) |
+| 5 | Array Search | Finding Minimum Number in an Array | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-5/) |
+| 6 | System Interfacing | Display Current System Time | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-6/) |
+| 7 | Mathematical | Factorial of a Number | October 15, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-7/) |
+| 8 | Macros | Display String using Macros | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-8/) |
+| 9 | Array Split | Separate Even and Odd Numbers (Mixed C/ASM) | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-9/) |
+| 10 | Logical Shift | Shift Number Multiple Times (Mixed C/ASM) | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-10/) |
 
 ### Program Details
 
