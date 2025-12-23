@@ -15,7 +15,7 @@
 
   ---
 
-  **[🔢 Experiment 1](#-experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[🔄 Experiment 2](#-experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[📝 Experiment 3](#-experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[📊 Experiment 4](#-experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[🔍 Experiment 5](#-experiment-5-array-search-1-program)** &nbsp;·&nbsp; **[🕐 Experiment 6](#-experiment-6-system-interfacing-1-program)** &nbsp;·&nbsp; **[🧮 Experiment 7](#-experiment-7-mathematical-operations-1-program)** &nbsp;·&nbsp; **[📦 Experiment 8](#-experiment-8-macro-utilization-1-program)** &nbsp;·&nbsp; **[🔀 Experiment 9](#-experiment-9-array-splitter-1-program)** &nbsp;·&nbsp; **[⬅➡ Experiment 10](#-experiment-10-logical-shifting-1-program)** &nbsp;·&nbsp; **[🚀 How to Use](#-how-to-use)** &nbsp;·&nbsp; **[📖 Learning Path](#-learning-path)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Lab Manual](#lab-manual)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-array-search-1-program)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-system-interfacing-1-program)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-mathematical-operations-1-program)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-macro-utilization-1-program)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-array-splitter-1-program)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-logical-shifting-1-program)**
 
 </div>
 
@@ -32,12 +32,12 @@
 <!-- =========================================================================================
                                      EXPERIMENT 1
      ========================================================================================= -->
-## 🔢 Experiment 1: Basic Arithmetic (8 Programs)
+## Experiment 1: Basic Arithmetic (8 Programs)
 
 Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers.
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Addition_Of_Two_8-bit_Numbers.asm](Experiment-1/Source%20Code/Addition_Of_Two_8-bit_Numbers.asm) | Addition | 8-bit addition with carry handling |
 | 2 | [Addition_Of_Two_16-bit_Numbers.asm](Experiment-1/Source%20Code/Addition_Of_Two_16-bit_Numbers.asm) | Addition | 16-bit addition for larger values |
 | 3 | [Subtraction_Of_Two_8-bit_Numbers.asm](Experiment-1/Source%20Code/Subtraction_Of_Two_8-bit_Numbers.asm) | Subtraction | 8-bit subtraction basics |
@@ -52,12 +52,12 @@ Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers
 <!-- =========================================================================================
                                      EXPERIMENT 2
      ========================================================================================= -->
-## 🔄 Experiment 2: Code Conversions (1 Program)
+## Experiment 2: Code Conversions (1 Program)
 
 Converting data between different number systems (Binary, Decimal, Hexadecimal).
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [BCD_To_Binary_Conversion.asm](Experiment-2/Source%20Code/BCD_To_Binary_Conversion.asm) | Conversion | BCD to Binary conversion logic |
 
 ---
@@ -65,12 +65,12 @@ Converting data between different number systems (Binary, Decimal, Hexadecimal).
 <!-- =========================================================================================
                                      EXPERIMENT 3
      ========================================================================================= -->
-## 📝 Experiment 3: String Handling (1 Program)
+## Experiment 3: String Handling (1 Program)
 
 String manipulation and character processing operations.
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [String_Manipulation.asm](Experiment-3/Source%20Code/String_Manipulation.asm) | String Ops | Length, copy, concatenate, compare |
 
 ---
@@ -78,12 +78,12 @@ String manipulation and character processing operations.
 <!-- =========================================================================================
                                      EXPERIMENT 4
      ========================================================================================= -->
-## 📊 Experiment 4: Sorting Algorithms (2 Programs)
+## Experiment 4: Sorting Algorithms (2 Programs)
 
 Implementation of classic sorting techniques for array organization.
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Bubble_Sort.asm](Experiment-4/Source%20Code/Bubble_Sort.asm) | Bubble Sort | Ascending order sorting |
 | 2 | [Selection_Sort.asm](Experiment-4/Source%20Code/Selection_Sort.asm) | Selection Sort | Minimum element selection |
 
@@ -92,12 +92,12 @@ Implementation of classic sorting techniques for array organization.
 <!-- =========================================================================================
                                      EXPERIMENT 5
      ========================================================================================= -->
-## 🔍 Experiment 5: Array Search (1 Program)
+## Experiment 5: Array Search (1 Program)
 
 Searching for specific elements within arrays.
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Linear_Search.asm](Experiment-5/Source%20Code/Linear_Search.asm) | Linear Search | Sequential element search |
 
 ---
@@ -105,12 +105,12 @@ Searching for specific elements within arrays.
 <!-- =========================================================================================
                                      EXPERIMENT 6
      ========================================================================================= -->
-## 🕐 Experiment 6: System Interfacing (1 Program)
+## Experiment 6: System Interfacing (1 Program)
 
 Interfacing with system hardware and BIOS interrupts.
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Display_System_Time.asm](Experiment-6/Source%20Code/Display_System_Time.asm) | BIOS INT 21h | Real-time clock display |
 
 ---
@@ -118,12 +118,12 @@ Interfacing with system hardware and BIOS interrupts.
 <!-- =========================================================================================
                                      EXPERIMENT 7
      ========================================================================================= -->
-## 🧮 Experiment 7: Mathematical Operations (1 Program)
+## Experiment 7: Mathematical Operations (1 Program)
 
 Advanced mathematical computations.
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Factorial_Calculation.asm](Experiment-7/Source%20Code/Factorial_Calculation.asm) | Factorial | Recursive/Iterative factorial |
 
 ---
@@ -131,12 +131,12 @@ Advanced mathematical computations.
 <!-- =========================================================================================
                                      EXPERIMENT 8
      ========================================================================================= -->
-## 📦 Experiment 8: Macro Utilization (1 Program)
+## Experiment 8: Macro Utilization (1 Program)
 
 Using macros for code reusability and modularity.
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Macro_Based_Operations.asm](Experiment-8/Source%20Code/Macro_Based_Operations.asm) | Macros | Reusable code blocks |
 
 ---
@@ -144,12 +144,12 @@ Using macros for code reusability and modularity.
 <!-- =========================================================================================
                                      EXPERIMENT 9
      ========================================================================================= -->
-## 🔀 Experiment 9: Array Splitter (1 Program)
+## Experiment 9: Array Splitter (1 Program)
 
 Dividing arrays based on specific criteria.
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Even_Odd_Array_Splitter.asm](Experiment-9/Source%20Code/Even_Odd_Array_Splitter.asm) | Array Split | Separate even/odd elements |
 
 ---
@@ -157,12 +157,12 @@ Dividing arrays based on specific criteria.
 <!-- =========================================================================================
                                      EXPERIMENT 10
      ========================================================================================= -->
-## ⬅➡ Experiment 10: Logical Shifting (1 Program)
+## Experiment 10: Logical Shifting (1 Program)
 
 Bit manipulation through logical shift operations.
 
 | # | Program | Algorithm | Description |
-|:---|:---|:---|:---|
+|:-:|:---|:---|:---|
 | 1 | [Logical_Shift_Operations.asm](Experiment-10/Source%20Code/Logical_Shift_Operations.asm) | Bit Shift | Left/Right logical shifts |
 
 ---
@@ -170,7 +170,7 @@ Bit manipulation through logical shift operations.
 <!-- =========================================================================================
                                      HOW TO USE
      ========================================================================================= -->
-## 🚀 How to Use
+## How to Use
 
 ### Running Assembly Programs
 1. **Assembler**: Use **MASM** (Microsoft Macro Assembler) or **TASM** (Turbo Assembler)
@@ -193,7 +193,7 @@ Bit manipulation through logical shift operations.
 <!-- =========================================================================================
                                      LEARNING PATH
      ========================================================================================= -->
-## 📖 Learning Path
+## Learning Path
 
 **Beginner Level:**
 - Start with **Experiment 1** to understand basic arithmetic and register usage
@@ -210,18 +210,29 @@ Bit manipulation through logical shift operations.
 ---
 
 <!-- =========================================================================================
+                                     LAB MANUAL
+     ========================================================================================= -->
+## Lab Manual
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [PRACTICAL LAB.pdf](PRACTICAL%20LAB.pdf) | Complete laboratory manual with all experiments |
+
+---
+
+<!-- =========================================================================================
                                      FOOTER SECTION
      ========================================================================================= -->
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#microprocessor-lab)**
+  **[↑ Back to Top](#microprocessor-lab)**
 
-  **[🔢 Experiment 1](#-experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[🔄 Experiment 2](#-experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[📝 Experiment 3](#-experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[📊 Experiment 4](#-experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[🔍 Experiment 5](#-experiment-5-array-search-1-program)** &nbsp;·&nbsp; **[🕐 Experiment 6](#-experiment-6-system-interfacing-1-program)** &nbsp;·&nbsp; **[🧮 Experiment 7](#-experiment-7-mathematical-operations-1-program)** &nbsp;·&nbsp; **[📦 Experiment 8](#-experiment-8-macro-utilization-1-program)** &nbsp;·&nbsp; **[🔀 Experiment 9](#-experiment-9-array-splitter-1-program)** &nbsp;·&nbsp; **[⬅➡ Experiment 10](#-experiment-10-logical-shifting-1-program)**
+  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Lab Manual](#lab-manual)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-array-search-1-program)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-system-interfacing-1-program)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-mathematical-operations-1-program)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-macro-utilization-1-program)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-array-splitter-1-program)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-logical-shifting-1-program)**
 
   <br>
 
-  **[🏠 Back to Main Repository](../)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
+  **[Back to Main Repository](../)** &nbsp;·&nbsp; **[8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
 </div>
 
