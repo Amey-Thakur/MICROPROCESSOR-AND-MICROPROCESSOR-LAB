@@ -34,21 +34,39 @@
      ========================================================================================= -->
 ## How to Use
 
-### Running Assembly Programs
-1. **Assembler**: Use **MASM** (Microsoft Macro Assembler) or **TASM** (Turbo Assembler)
-2. **Emulator**: Recommended: **EMU8086** or **DOSBox**
-3. **Execution Steps**:
-   ```bash
-   # For MASM
-   masm filename.asm;
-   link filename.obj;
-   filename.exe
-   
-   # For TASM
-   tasm filename.asm
-   tlink filename.obj
-   filename.exe
-   ```
+### Prerequisites
+
+**Assembler Options:**
+- **MASM** (Microsoft Macro Assembler)
+- **TASM** (Turbo Assembler)
+
+**Emulator Options:**
+- **EMU8086** (Recommended for beginners)
+- **DOSBox** (For advanced users)
+
+### Execution Steps
+
+**For MASM:**
+```bash
+masm filename.asm;
+link filename.obj;
+filename.exe
+```
+
+**For TASM:**
+```bash
+tasm filename.asm
+tlink filename.obj
+filename.exe
+```
+
+### Quick Start Guide
+
+1. Choose your assembler (MASM or TASM)
+2. Write your assembly code in a `.asm` file
+3. Assemble the code using the commands above
+4. Link the object file to create an executable
+5. Run the `.exe` file in your emulator
 
 ---
 
