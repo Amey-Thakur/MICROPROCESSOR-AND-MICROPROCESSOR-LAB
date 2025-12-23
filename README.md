@@ -18,7 +18,7 @@
 
   ---
 
-  [📖 Overview](#overview) &nbsp;·&nbsp; [📂 Contents](#repository-contents) &nbsp;·&nbsp; [📚 Reference Books](#reference-books) &nbsp;·&nbsp; [✏️ Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [📄 Assignments](#assignments) &nbsp;·&nbsp; [🏫 Classwork](#classwork) &nbsp;·&nbsp; [🧪 Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [🧠 Quizzes](#quizzes) &nbsp;·&nbsp; [💻 Online Exam](#online-exam) &nbsp;·&nbsp; [🎓 Semester Exam](#semester-exam) &nbsp;·&nbsp; [📝 Question Papers](#question-papers) &nbsp;·&nbsp; [✅ Submission Report](#submission-completion-report) &nbsp;·&nbsp; [📋 Syllabus](#syllabus) &nbsp;·&nbsp; [📘 Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [📜 License](#license) &nbsp;·&nbsp; [ℹ️ About](#about-this-repository) &nbsp;·&nbsp; [🙏🏻 Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Classwork](#classwork) &nbsp;·&nbsp; [Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Online Exam](#online-exam) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -86,10 +86,10 @@ This collection includes **9 comprehensive reference materials** covering all ma
 
 Study materials and planning resources for effective exam preparation:
 
-| Resource | Description |
-|:---|:---|
-| 📝 [Syllabus Breakdown](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf) | Detailed module-wise syllabus notes |
-| 📊 [Syllabus (Full)](Syllabus/MU%20COMP%20TE%20BE.pdf) | Official University of Mumbai curriculum |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Syllabus Breakdown](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf) | Detailed module-wise syllabus notes |
+| 2 | [Syllabus (Full)](Syllabus/MU%20COMP%20TE%20BE.pdf) | Official University of Mumbai curriculum |
 
 ---
 
@@ -97,10 +97,10 @@ Study materials and planning resources for effective exam preparation:
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Date | Marks | Link |
-|:-:|:---|:---|:---:|:---:|:---:|
-| 1 | **Assignment 1** | Architecture and Instruction Set Fundamentals | November 28, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_MP_Assignment-1.pdf) |
-| 2 | **Assignment 2** | Interfacing and Advanced Microprocessors | November 28, 2020 | 10/10 | [📄 View](Assignments/Amey_B-50_MP_Assignment-2.pdf) |
+| # | Assignment | Description | Date | Marks |
+|:-:|:---|:---|:-:|:-:|
+| 1 | [**Assignment 1**](Assignments/Amey_B-50_MP_Assignment-1.pdf) | Architecture and Instruction Set Fundamentals | November 28, 2020 | 10/10 |
+| 2 | [**Assignment 2**](Assignments/Amey_B-50_MP_Assignment-2.pdf) | Interfacing and Advanced Microprocessors | November 28, 2020 | 10/10 |
 
 **Topics Covered**: 8086 Architecture (Internal architecture, memory segmentation) · Instruction Set · Addressing Modes · Interfacing (8255 PPI, 8259 PIC) · Advanced Processors (80286, 80386, Pentium)
 
@@ -110,10 +110,10 @@ Academic assignments for comprehensive learning and practice:
 
 Lab classwork sessions conducted during the online course:
 
-| Resource | Date | Description |
-|:---|:---:|:---|
-| 📝 [Classwork 1](Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf) | October 20, 2020 | Initial assembly logic and program structuring |
-| 📝 [Classwork 2](Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf) | November 10, 2020 | Data manipulation and register-level exercises |
+| # | Resource | Date | Description |
+|:-:|:---|:-:|:---|
+| 1 | [Classwork 1](Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf) | October 20, 2020 | Initial assembly logic and program structuring |
+| 2 | [Classwork 2](Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf) | November 10, 2020 | Data manipulation and register-level exercises |
 
 ---
 
@@ -137,23 +137,23 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 
 ### Laboratory Experiments
 
-| Experiment | Topic | Objective | Due Date | Marks | View |
-|:---|:---|:---|:---:|:---:|:-:|
-| **Experiment 1** | Basic Arithmetic | Addition, Subtraction, Multiplication, Division | September 13, 2020 | 09/10 | [📂](Microprocessor%20Lab/Experiment-1/) |
-| **Experiment 2** | Code Conversions | Hex to BCD and BCD to Hex | September 13, 2020 | 09/10 | [📂](Microprocessor%20Lab/Experiment-2/) |
-| **Experiment 3** | String Handling | Length of an Input String | September 13, 2020 | 09/10 | [📂](Microprocessor%20Lab/Experiment-3/) |
-| **Experiment 4** | Sorting | Ascending and Descending sorting | September 20, 2020 | 09/10 | [📂](Microprocessor%20Lab/Experiment-4/) |
-| **Experiment 5** | Array Search | Finding Minimum Number in an Array | October 10, 2020 | 10/10 | [📂](Microprocessor%20Lab/Experiment-5/) |
-| **Experiment 6** | System Interfacing | Display Current System Time | October 10, 2020 | 10/10 | [📂](Microprocessor%20Lab/Experiment-6/) |
-| **Experiment 7** | Mathematical | Factorial of a Number | October 15, 2020 | 10/10 | [📂](Microprocessor%20Lab/Experiment-7/) |
-| **Experiment 8** | Macros | Display String using Macros | October 10, 2020 | 10/10 | [📂](Microprocessor%20Lab/Experiment-8/) |
-| **Experiment 9** | Array Split | Separate Even and Odd Numbers (Mixed C/ASM) | October 10, 2020 | 10/10 | [📂](Microprocessor%20Lab/Experiment-9/) |
-| **Experiment 10**| Logical Shift | Shift Number Multiple Times (Mixed C/ASM) | October 10, 2020 | 10/10 | [📂](Microprocessor%20Lab/Experiment-10/) |
+| Experiment | Topic | Objective | Due Date | Marks | Source Code |
+|:---|:---|:---|:-:|:-:|:-:|
+| **Experiment 1** | Basic Arithmetic | Addition, Subtraction, Multiplication, Division | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-1/) |
+| **Experiment 2** | Code Conversions | Hex to BCD and BCD to Hex | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-2/) |
+| **Experiment 3** | String Handling | Length of an Input String | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-3/) |
+| **Experiment 4** | Sorting | Ascending and Descending sorting | September 20, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-4/) |
+| **Experiment 5** | Array Search | Finding Minimum Number in an Array | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-5/) |
+| **Experiment 6** | System Interfacing | Display Current System Time | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-6/) |
+| **Experiment 7** | Mathematical | Factorial of a Number | October 15, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-7/) |
+| **Experiment 8** | Macros | Display String using Macros | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-8/) |
+| **Experiment 9** | Array Split | Separate Even and Odd Numbers (Mixed C/ASM) | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-9/) |
+| **Experiment 10**| Logical Shift | Shift Number Multiple Times (Mixed C/ASM) | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-10/) |
 
 ### Program Details
 
 <details>
-<summary><strong>📁 Experiment 1: Basic Arithmetic Operations (8 Programs)</strong></summary>
+<summary><strong>Experiment 1: Basic Arithmetic Operations (8 Programs)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -169,7 +169,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 </details>
 
 <details>
-<summary><strong>🔢 Experiment 2: Code Conversions (1 Program)</strong></summary>
+<summary><strong>Experiment 2: Code Conversions (1 Program)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -178,7 +178,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 </details>
 
 <details>
-<summary><strong>🧵 Experiment 3: String Handling (1 Program)</strong></summary>
+<summary><strong>Experiment 3: String Handling (1 Program)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -187,7 +187,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 </details>
 
 <details>
-<summary><strong>📊 Experiment 4: Sorting Algorithms (2 Programs)</strong></summary>
+<summary><strong>Experiment 4: Sorting Algorithms (2 Programs)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -197,7 +197,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 </details>
 
 <details>
-<summary><strong>🔍 Experiment 5: Array Search (1 Program)</strong></summary>
+<summary><strong>Experiment 5: Array Search (1 Program)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -206,7 +206,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 </details>
 
 <details>
-<summary><strong>⏰ Experiment 6: System Interfacing (1 Program)</strong></summary>
+<summary><strong>Experiment 6: System Interfacing (1 Program)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -215,7 +215,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 </details>
 
 <details>
-<summary><strong>➗ Experiment 7: Practical Mathematics (1 Program)</strong></summary>
+<summary><strong>Experiment 7: Practical Mathematics (1 Program)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -224,7 +224,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 </details>
 
 <details>
-<summary><strong>📦 Experiment 8: Macros (1 Program)</strong></summary>
+<summary><strong>Experiment 8: Macros (1 Program)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -233,7 +233,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 </details>
 
 <details>
-<summary><strong>⚡ Experiment 9: Array Manipulation (1 Program)</strong></summary>
+<summary><strong>Experiment 9: Array Manipulation (1 Program)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -242,7 +242,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 </details>
 
 <details>
-<summary><strong>🔄 Experiment 10: Logical Operations (1 Program)</strong></summary>
+<summary><strong>Experiment 10: Logical Operations (1 Program)</strong></summary>
 
 | Program | Algorithm | Description | Code |
 |:---|:---|:---|:-:|
@@ -252,9 +252,9 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 
 ### Laboratory Documentation
 
-| Resource | Description |
-|:---|:---|
-| 📖 [Lab README](Microprocessor%20Lab/) | Detailed navigation guide with program descriptions |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Lab README](Microprocessor%20Lab/) | Detailed navigation guide with program descriptions |
 
 ---
 
@@ -265,15 +265,15 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 
 Microprocessor-specific quizzes conducted during the online course:
 
-| Quiz | Date | Marks | Resource |
-|:---|:---:|:---:|:-:|
-| Microprocessor Quiz | July 11, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor.pdf) |
-| Microprocessor Quiz - 1 | July 18, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%201.pdf) |
-| Microprocessor Quiz - 2 | August 08, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%202.pdf) |
-| Microprocessor Quiz - 3 | August 29, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%203.pdf) |
-| Microprocessor Quiz - 4 | September 05, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%204.pdf) |
-| Microprocessor Quiz - 5 | September 12, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%205.pdf) |
-| Microprocessor Quiz - 6 | September 26, 2020 | 10/10 | [📄](Quizzes/Quiz%20Microprocessor%20-%206.pdf) |
+| # | Quiz | Date | Marks | Resource |
+|:-:|:---|:-:|:-:|:-:|
+| 1 | Microprocessor Quiz | July 11, 2020 | 10/10 | [View](Quizzes/Quiz%20Microprocessor.pdf) |
+| 2 | Microprocessor Quiz - 1 | July 18, 2020 | 10/10 | [View](Quizzes/Quiz%20Microprocessor%20-%201.pdf) |
+| 3 | Microprocessor Quiz - 2 | August 08, 2020 | 10/10 | [View](Quizzes/Quiz%20Microprocessor%20-%202.pdf) |
+| 4 | Microprocessor Quiz - 3 | August 29, 2020 | 10/10 | [View](Quizzes/Quiz%20Microprocessor%20-%203.pdf) |
+| 5 | Microprocessor Quiz - 4 | September 05, 2020 | 10/10 | [View](Quizzes/Quiz%20Microprocessor%20-%204.pdf) |
+| 6 | Microprocessor Quiz - 5 | September 12, 2020 | 10/10 | [View](Quizzes/Quiz%20Microprocessor%20-%205.pdf) |
+| 7 | Microprocessor Quiz - 6 | September 26, 2020 | 10/10 | [View](Quizzes/Quiz%20Microprocessor%20-%206.pdf) |
 
 ---
 
@@ -285,13 +285,13 @@ Microprocessor-specific quizzes conducted during the online course:
 > [!IMPORTANT]
 > **COVID-19 Impact**: This coursework was completed during the COVID-19 pandemic in 2020. All examinations and assessments were conducted in a digital format.
 
-| Resource | Date | Marks | Description |
-|:---|:---:|:---:|:---|
-| 📊 [MP UT-2](Online%20Exam/MP%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
-| 📄 [Online Test - All Subjects 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject online test |
-| 📄 [Online Test - All Subjects 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject online test |
-| 📄 [Online Test - All Subjects 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject online test |
-| 📄 [Online Test - All Subjects 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject online test |
+| # | Resource | Date | Marks | Description |
+|:-:|:---|:-:|:-:|:---|
+| 1 | [MP UT-2](Online%20Exam/MP%20UT-2.png) | 2020 | — | Unit Test 2 Assessment |
+| 2 | [Online Test - All Subjects 1](Online%20Exam/TE_B_Online_Test(All%20Subject)-1.pdf) | July 18, 2020 | 40/40 | Collective subject online test |
+| 3 | [Online Test - All Subjects 2](Online%20Exam/TE_B_Online_Test(All%20Subject)-2.pdf) | July 25, 2020 | 50/50 | Collective subject online test |
+| 4 | [Online Test - All Subjects 3](Online%20Exam/TE_B_Online_Test(All%20Subject)-3.pdf) | August 03, 2020 | 50/50 | Collective subject online test |
+| 5 | [Online Test - All Subjects 4](Online%20Exam/TE_B_Online_Test(All%20Subject)-4.pdf) | August 08, 2020 | 50/50 | Collective subject online test |
 
 ---
 
@@ -302,9 +302,9 @@ Microprocessor-specific quizzes conducted during the online course:
 
 Final semester examination submission:
 
-| Resource | Date | Description |
-|:---|:---:|:---|
-| 📄 [MP Answer Sheet](Semester%20Exam/51112146_MP_Q.2&Q.3.pdf) | January 07, 2021 | Final Semester Exam Submission (Q.2 & Q.3) |
+| # | Resource | Date | Description |
+|:-:|:---|:-:|:---|
+| 1 | [MP Answer Sheet](Semester%20Exam/51112146_MP_Q.2&Q.3.pdf) | January 07, 2021 | Final Semester Exam Submission (Q.2 & Q.3) |
 
 ---
 
@@ -315,11 +315,11 @@ Final semester examination submission:
 
 Previous year university question papers:
 
-| Exam Session | Syllabus | Resource |
-|:---|:---:|:-:|
-| December 2018 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_MP-CBCGS_DEC18.pdf) |
-| May 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_MP-CBCGS_MAY19.pdf) |
-| December 2019 | CBCGS | [📄](Question%20Papers/TE-Comps_SEM5_MP-CBCGS_DEC19.pdf) |
+| # | Exam Session | Syllabus | Resource |
+|:-:|:---|:-:|:-:|
+| 1 | December 2018 | CBCGS | [View](Question%20Papers/TE-Comps_SEM5_MP-CBCGS_DEC18.pdf) |
+| 2 | May 2019 | CBCGS | [View](Question%20Papers/TE-Comps_SEM5_MP-CBCGS_MAY19.pdf) |
+| 3 | December 2019 | CBCGS | [View](Question%20Papers/TE-Comps_SEM5_MP-CBCGS_DEC19.pdf) |
 
 ---
 
@@ -330,9 +330,9 @@ Previous year university question papers:
 
 Course completion documentation with exit survey:
 
-| Document | Description | Link |
-|:---|:---|:---:|
-| **Submission Completion Report** | Final coursework and lab submission report with exit survey | [📋 View](Amey_B-50_MP_Submission_Report.pdf) |
+| # | Document | Description |
+|:-:|:---|:---|
+| 1 | [**Submission Completion Report**](Amey_B-50_MP_Submission_Report.pdf) | Final coursework and lab submission report with exit survey |
 
 ---
 
@@ -341,7 +341,7 @@ Course completion documentation with exit survey:
      ========================================================================================= -->
 ## Syllabus
 
-> 📋 **[Official CBCGS Syllabus](Syllabus/MU%20COMP%20TE%20BE.pdf)**  
+> **[Official CBCGS Syllabus](Syllabus/MU%20COMP%20TE%20BE.pdf)**  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Microprocessor and Microprocessor Lab.
 
 > [!IMPORTANT]
@@ -407,13 +407,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[⬆ Back to Top](#microprocessor-and-microprocessor-lab)**
+  **[↑ Back to Top](#microprocessor-and-microprocessor-lab)**
 
-  **[📖 Overview](#overview)** &nbsp;·&nbsp; **[📂 Contents](#repository-contents)** &nbsp;·&nbsp; **[📚 Reference Books](#reference-books)** &nbsp;·&nbsp; **[✏️ Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[📄 Assignments](#assignments)** &nbsp;·&nbsp; **[🏫 Classwork](#classwork)** &nbsp;·&nbsp; **[🧪 Laboratory](#microprocessor-laboratory)** &nbsp;·&nbsp; **[🧠 Quizzes](#quizzes)** &nbsp;·&nbsp; **[💻 Online Exam](#online-exam)** &nbsp;·&nbsp; **[🎓 Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[📝 Question Papers](#question-papers)** &nbsp;·&nbsp; **[✅ Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[📋 Syllabus](#syllabus)** &nbsp;·&nbsp; **[📘 Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[📜 License](#license)** &nbsp;·&nbsp; **[ℹ️ About](#about-this-repository)** &nbsp;·&nbsp; **[🙏🏻 Acknowledgments](#acknowledgments)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Classwork](#classwork)** &nbsp;·&nbsp; **[Laboratory](#microprocessor-laboratory)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Online Exam](#online-exam)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[🧪 Microprocessor Lab](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
+  **[Microprocessor Lab](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
 </div>
 
