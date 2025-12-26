@@ -159,16 +159,16 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 
 | # | Experiment | Date | Marks | Source Code |
 |:-:|:---|:-:|:-:|:-:|
-| 1 | **Experiment 1: Basic Arithmetic**<br>Write assembly language program implement basic arithmetic operations on two 8 bit and 16-bit numbers | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-1/) |
-| 2 | **Experiment 2: Code Conversions**<br>- | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-2/) |
-| 3 | **Experiment 3: String Handling**<br>- | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-3/) |
-| 4 | **Experiment 4: Sorting**<br>- | September 20, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-4/) |
-| 5 | **Experiment 5: Array Search**<br>- | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-5/) |
-| 6 | **Experiment 6: System Interfacing**<br>- | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-6/) |
-| 7 | **Experiment 7: Mathematical**<br>- | October 15, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-7/) |
-| 8 | **Experiment 8: Macros**<br>- | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-8/) |
-| 9 | **Experiment 9: Array Split**<br>- | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-9/) |
-| 10 | **Experiment 10: Logical Shift**<br>- | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-10/) |
+| 1 | Write assembly language program implement basic arithmetic operations on two 8 bit and 16-bit numbers | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-1/) |
+| 2 | - | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-2/) |
+| 3 | - | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-3/) |
+| 4 | - | September 20, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-4/) |
+| 5 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-5/) |
+| 6 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-6/) |
+| 7 | - | October 15, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-7/) |
+| 8 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-8/) |
+| 9 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-9/) |
+| 10 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-10/) |
 
 ### Program Details
 
