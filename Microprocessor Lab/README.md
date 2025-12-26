@@ -96,7 +96,7 @@ filename.exe
 
 Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers.
 
-Date: September 13, 2020
+**Date**: September 13, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -119,7 +119,7 @@ Date: September 13, 2020
 
 Converting data between different number systems (Binary, Decimal, Hexadecimal).
 
-Date: September 13, 2020
+**Date**: September 13, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -135,7 +135,7 @@ Date: September 13, 2020
 
 String manipulation and character processing operations.
 
-Date: September 13, 2020
+**Date**: September 13, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -151,7 +151,7 @@ Date: September 13, 2020
 
 Implementation of classic sorting techniques for array organization.
 
-Date: September 20, 2020
+**Date**: September 20, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -168,7 +168,7 @@ Date: September 20, 2020
 
 Searching for specific elements within arrays.
 
-Date: October 10, 2020
+**Date**: October 10, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -184,7 +184,7 @@ Date: October 10, 2020
 
 Interfacing with system hardware and BIOS interrupts.
 
-Date: October 10, 2020
+**Date**: October 10, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -200,7 +200,7 @@ Date: October 10, 2020
 
 Advanced mathematical computations.
 
-Date: October 15, 2020
+**Date**: October 15, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -216,7 +216,7 @@ Date: October 15, 2020
 
 Using macros for code reusability and modularity.
 
-Date: October 10, 2020
+**Date**: October 10, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -232,7 +232,7 @@ Date: October 10, 2020
 
 Dividing arrays based on specific criteria.
 
-Date: October 10, 2020
+**Date**: October 10, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -248,7 +248,7 @@ Date: October 10, 2020
 
 Bit manipulation through logical shift operations.
 
-Date: October 10, 2020
+**Date**: October 10, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
