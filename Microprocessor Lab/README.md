@@ -96,16 +96,17 @@ filename.exe
 
 Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers.
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [Addition_Of_Two_8-bit_Numbers.asm](Experiment-1/Source%20Code/Addition_Of_Two_8-bit_Numbers.asm) | Addition | 8-bit addition with carry handling |
-| 2 | [Addition_Of_Two_16-bit_Numbers.asm](Experiment-1/Source%20Code/Addition_Of_Two_16-bit_Numbers.asm) | Addition | 16-bit addition for larger values |
-| 3 | [Subtraction_Of_Two_8-bit_Numbers.asm](Experiment-1/Source%20Code/Subtraction_Of_Two_8-bit_Numbers.asm) | Subtraction | 8-bit subtraction basics |
-| 4 | [Subtraction_Of_Two_16-bit_Numbers.asm](Experiment-1/Source%20Code/Subtraction_Of_Two_16-bit_Numbers.asm) | Subtraction | 16-bit subtraction logic |
-| 5 | [Multiplication_Of_Two_8-bit_Numbers.asm](Experiment-1/Source%20Code/Multiplication_Of_Two_8-bit_Numbers.asm) | Multiplication | 8-bit unsigned multiplication |
-| 6 | [Multiplication_Of_Two_16-bit_Numbers.asm](Experiment-1/Source%20Code/Multiplication_Of_Two_16-bit_Numbers.asm) | Multiplication | 16-bit multiplication technique |
-| 7 | [Division_Of_Two_8-bit_Numbers.asm](Experiment-1/Source%20Code/Division_Of_Two_8-bit_Numbers.asm) | Division | 8-bit division with quotient/remainder |
-| 8 | [Division_Of_Two_16-bit_Numbers.asm](Experiment-1/Source%20Code/Division_Of_Two_16-bit_Numbers.asm) | Division | 16-bit division operations |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Addition_Of_Two_8-bit_Numbers.asm | Addition | 8-bit addition with carry handling | [View](Experiment-1/Source%20Code/Addition_Of_Two_8-bit_Numbers.asm) |
+| 2 | Addition_Of_Two_16-bit_Numbers.asm | Addition | 16-bit addition for larger values | [View](Experiment-1/Source%20Code/Addition_Of_Two_16-bit_Numbers.asm) |
+| 3 | Subtraction_Of_Two_8-bit_Numbers.asm | Subtraction | 8-bit subtraction basics | [View](Experiment-1/Source%20Code/Subtraction_Of_Two_8-bit_Numbers.asm) |
+| 4 | Subtraction_Of_Two_16-bit_Numbers.asm | Subtraction | 16-bit subtraction logic | [View](Experiment-1/Source%20Code/Subtraction_Of_Two_16-bit_Numbers.asm) |
+| 5 | Multiplication_Of_Two_8-bit_Numbers.asm | Multiplication | 8-bit unsigned multiplication | [View](Experiment-1/Source%20Code/Multiplication_Of_Two_8-bit_Numbers.asm) |
+| 6 | Multiplication_Of_Two_16-bit_Numbers.asm | Multiplication | 16-bit multiplication technique | [View](Experiment-1/Source%20Code/Multiplication_Of_Two_16-bit_Numbers.asm) |
+| 7 | Division_Of_Two_8-bit_Numbers.asm | Division | 8-bit division with quotient/remainder | [View](Experiment-1/Source%20Code/Division_Of_Two_8-bit_Numbers.asm) |
+| 8 | Division_Of_Two_16-bit_Numbers.asm | Division | 16-bit division operations | [View](Experiment-1/Source%20Code/Division_Of_Two_16-bit_Numbers.asm) |
+| — | Lab Report | — | Detailed experiment report | [View](Experiment-1/Amey_B-50_MP_Experiment-1.pdf) |
 
 ---
 
@@ -116,9 +117,10 @@ Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers
 
 Converting data between different number systems (Binary, Decimal, Hexadecimal).
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [BCD_To_Binary_Conversion.asm](Experiment-2/Source%20Code/BCD_To_Binary_Conversion.asm) | Conversion | BCD to Binary conversion logic |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | BCD_To_Binary_Conversion.asm | Conversion | BCD to Binary conversion logic | [View](Experiment-2/Source%20Code/BCD_To_Binary_Conversion.asm) |
+| — | Lab Report | — | Detailed experiment report | [View](Experiment-2/Amey_B-50_MP_Experiment-2.pdf) |
 
 ---
 
@@ -129,9 +131,10 @@ Converting data between different number systems (Binary, Decimal, Hexadecimal).
 
 String manipulation and character processing operations.
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [String_Manipulation.asm](Experiment-3/Source%20Code/String_Manipulation.asm) | String Ops | Length, copy, concatenate, compare |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | String_Manipulation.asm | String Ops | Length, copy, concatenate, compare | [View](Experiment-3/Source%20Code/String_Manipulation.asm) |
+| — | Lab Report | — | Detailed experiment report | [View](Experiment-3/Amey_B-50_MP_Experiment-3.pdf) |
 
 ---
 
@@ -142,10 +145,11 @@ String manipulation and character processing operations.
 
 Implementation of classic sorting techniques for array organization.
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [Bubble_Sort.asm](Experiment-4/Source%20Code/Bubble_Sort.asm) | Bubble Sort | Ascending order sorting |
-| 2 | [Selection_Sort.asm](Experiment-4/Source%20Code/Selection_Sort.asm) | Selection Sort | Minimum element selection |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Bubble_Sort.asm | Bubble Sort | Ascending order sorting | [View](Experiment-4/Source%20Code/Bubble_Sort.asm) |
+| 2 | Selection_Sort.asm | Selection Sort | Minimum element selection | [View](Experiment-4/Source%20Code/Selection_Sort.asm) |
+| — | Lab Report | — | Detailed experiment report | [View](Experiment-4/Amey_B-50_MP_Experiment-4.pdf) |
 
 ---
 
@@ -156,9 +160,10 @@ Implementation of classic sorting techniques for array organization.
 
 Searching for specific elements within arrays.
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [Linear_Search.asm](Experiment-5/Source%20Code/Linear_Search.asm) | Linear Search | Sequential element search |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Linear_Search.asm | Linear Search | Sequential element search | [View](Experiment-5/Source%20Code/Linear_Search.asm) |
+| — | Lab Report | — | Detailed experiment report | [View](Experiment-5/Amey_B-50_MP_Experiment-5.pdf) |
 
 ---
 
@@ -169,9 +174,10 @@ Searching for specific elements within arrays.
 
 Interfacing with system hardware and BIOS interrupts.
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [Display_System_Time.asm](Experiment-6/Source%20Code/Display_System_Time.asm) | BIOS INT 21h | Real-time clock display |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Display_System_Time.asm | BIOS INT 21h | Real-time clock display | [View](Experiment-6/Source%20Code/Display_System_Time.asm) |
+| — | Lab Report | — | Detailed experiment report | [View](Experiment-6/Amey_B-50_MP_Experiment-6.pdf) |
 
 ---
 
@@ -182,9 +188,10 @@ Interfacing with system hardware and BIOS interrupts.
 
 Advanced mathematical computations.
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [Factorial_Calculation.asm](Experiment-7/Source%20Code/Factorial_Calculation.asm) | Factorial | Recursive/Iterative factorial |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Factorial_Calculation.asm | Factorial | Recursive/Iterative factorial | [View](Experiment-7/Source%20Code/Factorial_Calculation.asm) |
+| — | Lab Report | — | Detailed experiment report | [View](Experiment-7/Amey_B-50_MP_Experiment-7.pdf) |
 
 ---
 
@@ -195,9 +202,10 @@ Advanced mathematical computations.
 
 Using macros for code reusability and modularity.
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [Macro_Based_Operations.asm](Experiment-8/Source%20Code/Macro_Based_Operations.asm) | Macros | Reusable code blocks |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Macro_Based_Operations.asm | Macros | Reusable code blocks | [View](Experiment-8/Source%20Code/Macro_Based_Operations.asm) |
+| — | Lab Report | — | Detailed experiment report | [View](Experiment-8/Amey_B-50_MP_Experiment-8.pdf) |
 
 ---
 
@@ -208,9 +216,10 @@ Using macros for code reusability and modularity.
 
 Dividing arrays based on specific criteria.
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [Even_Odd_Array_Splitter.asm](Experiment-9/Source%20Code/Even_Odd_Array_Splitter.asm) | Array Split | Separate even/odd elements |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Even_Odd_Array_Splitter.asm | Array Split | Separate even/odd elements | [View](Experiment-9/Source%20Code/Even_Odd_Array_Splitter.asm) |
+| — | Lab Report | — | Detailed experiment report | [View](Experiment-9/Amey_B-50_MP_Experiment-9.pdf) |
 
 ---
 
@@ -221,9 +230,10 @@ Dividing arrays based on specific criteria.
 
 Bit manipulation through logical shift operations.
 
-| # | Program | Algorithm | Description |
-|:-:|:---|:---|:---|
-| 1 | [Logical_Shift_Operations.asm](Experiment-10/Source%20Code/Logical_Shift_Operations.asm) | Bit Shift | Left/Right logical shifts |
+| # | Program | Algorithm | Description | Source Code |
+|:-:|:---|:---|:---|:-:|
+| 1 | Logical_Shift_Operations.asm | Bit Shift | Left/Right logical shifts | [View](Experiment-10/Source%20Code/Logical_Shift_Operations.asm) |
+| — | Lab Report | — | Detailed experiment report | [View](Experiment-10/Amey_B-50_MP_Experiment-10.pdf) |
 
 ---
 
