@@ -157,18 +157,18 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 
 ### Laboratory Experiments
 
-| # | Experiment | Date | Marks | Source Code |
+| # | Experiment | Date | Marks | Report |
 |:-:|:---|:-:|:-:|:-:|
-| 1 | Write assembly language program implement basic arithmetic operations on two 8 bit and 16-bit numbers | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-1/) |
-| 2 | - | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-2/) |
-| 3 | - | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-3/) |
-| 4 | - | September 20, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-4/) |
-| 5 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-5/) |
-| 6 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-6/) |
-| 7 | - | October 15, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-7/) |
-| 8 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-8/) |
-| 9 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-9/) |
-| 10 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-10/) |
+| 1 | Write assembly language program implement basic arithmetic operations on two 8 bit and 16-bit numbers | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-1/Amey_B-50_MP_Experiment-1.pdf) |
+| 2 | - | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-2/Amey_B-50_MP_Experiment-2.pdf) |
+| 3 | - | September 13, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-3/Amey_B-50_MP_Experiment-3.pdf) |
+| 4 | - | September 20, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-4/Amey_B-50_MP_Experiment-4.pdf) |
+| 5 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-5/Amey_B-50_MP_Experiment-5.pdf) |
+| 6 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-6/Amey_B-50_MP_Experiment-6.pdf) |
+| 7 | - | October 15, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-7/Amey_B-50_MP_Experiment-7.pdf) |
+| 8 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-8/Amey_B-50_MP_Experiment-8.pdf) |
+| 9 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-9/Amey_B-50_MP_Experiment-9.pdf) |
+| 10 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-10/Amey_B-50_MP_Experiment-10.pdf) |
 
 ### Program Details
 
