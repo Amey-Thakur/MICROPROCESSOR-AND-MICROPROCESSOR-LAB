@@ -269,7 +269,7 @@ Bit manipulation through logical shift operations.
 
   <br>
 
-  **[🏠 Back to Main Repository](../)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
+  🏠 **[Back to Main Repository](../)** &nbsp;·&nbsp; **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
 </div>
 
