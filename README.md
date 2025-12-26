@@ -127,13 +127,13 @@ Microprocessor-specific quizzes conducted during the online course:
 
 | # | Quiz | Date | Marks |
 |:-:|:---|:-:|:-:|
-| 1 | [Microprocessor Quiz](Quizzes/Quiz%20Microprocessor.pdf) | July 11, 2020 | 10/10 |
-| 2 | [Microprocessor Quiz - 1](Quizzes/Quiz%20Microprocessor%20-%201.pdf) | July 18, 2020 | 10/10 |
-| 3 | [Microprocessor Quiz - 2](Quizzes/Quiz%20Microprocessor%20-%202.pdf) | August 08, 2020 | 10/10 |
-| 4 | [Microprocessor Quiz - 3](Quizzes/Quiz%20Microprocessor%20-%203.pdf) | August 29, 2020 | 10/10 |
-| 5 | [Microprocessor Quiz - 4](Quizzes/Quiz%20Microprocessor%20-%204.pdf) | September 05, 2020 | 10/10 |
-| 6 | [Microprocessor Quiz - 5](Quizzes/Quiz%20Microprocessor%20-%205.pdf) | September 12, 2020 | 10/10 |
-| 7 | [Microprocessor Quiz - 6](Quizzes/Quiz%20Microprocessor%20-%206.pdf) | September 26, 2020 | 10/10 |
+| 1 | [Quiz](Quizzes/Quiz%20Microprocessor.pdf) | July 11, 2020 | 10/10 |
+| 2 | [Quiz 1](Quizzes/Quiz%20Microprocessor%20-%201.pdf) | July 18, 2020 | 10/10 |
+| 3 | [Quiz 2](Quizzes/Quiz%20Microprocessor%20-%202.pdf) | August 08, 2020 | 10/10 |
+| 4 | [Quiz 3](Quizzes/Quiz%20Microprocessor%20-%203.pdf) | August 29, 2020 | 10/10 |
+| 5 | [Quiz 4](Quizzes/Quiz%20Microprocessor%20-%204.pdf) | September 05, 2020 | 10/10 |
+| 6 | [Quiz 5](Quizzes/Quiz%20Microprocessor%20-%205.pdf) | September 12, 2020 | 10/10 |
+| 7 | [Quiz 6](Quizzes/Quiz%20Microprocessor%20-%206.pdf) | September 26, 2020 | 10/10 |
 
 ---
 
