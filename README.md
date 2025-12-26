@@ -165,10 +165,10 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 | 4 | Write assembly language programs to sort numbers in ascending / descending order. [Use BIOS/DOS interrupts to read input and display results.] | September 20, 2020 | 09/10 | [View](Microprocessor%20Lab/Experiment-4/Amey_B-50_MP_Experiment-4.pdf) |
 | 5 | Write an assembly program to find minimum and maximum no. from a given array. [Use BIOS/DOS interrupts to read input and display results.] | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-5/Amey_B-50_MP_Experiment-5.pdf) |
 | 6 | Write an assembly language program to display System time using DOS/BIOS Interrupt. | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-6/Amey_B-50_MP_Experiment-6.pdf) |
-| 7 | - | October 15, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-7/Amey_B-50_MP_Experiment-7.pdf) |
-| 8 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-8/Amey_B-50_MP_Experiment-8.pdf) |
-| 9 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-9/Amey_B-50_MP_Experiment-9.pdf) |
-| 10 | - | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-10/Amey_B-50_MP_Experiment-10.pdf) |
+| 7 | Write an assembly program to find the factorial of a number using the recursive procedure. | October 15, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-7/Amey_B-50_MP_Experiment-7.pdf) |
+| 8 | Write an Assembly program to display strings using a macro. [Use BIOS/DOS interrupts to read input and display results.] | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-8/Amey_B-50_MP_Experiment-8.pdf) |
+| 9 | Mixed language to separate EVEN and ODD number in the array | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-9/Amey_B-50_MP_Experiment-9.pdf) |
+| 10 | Write & execute a mixed program to shift a number given no of times | October 10, 2020 | 10/10 | [View](Microprocessor%20Lab/Experiment-10/Amey_B-50_MP_Experiment-10.pdf) |
 
 ### Program Details
 
