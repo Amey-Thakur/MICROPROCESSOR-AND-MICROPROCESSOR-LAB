@@ -398,7 +398,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 Special thanks to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Microprocessors. Their clear teaching and continued support helped develop a strong understanding of low-level system architecture.
 
-Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience during the challenging phase of online education.
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
