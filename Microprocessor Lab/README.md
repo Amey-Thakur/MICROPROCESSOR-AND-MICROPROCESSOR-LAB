@@ -96,6 +96,8 @@ filename.exe
 
 Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers.
 
+Date: September 13, 2020
+
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
 | 1 | Addition_Of_Two_8-bit_Numbers.asm | Addition | 8-bit addition with carry handling | [View](Experiment-1/Source%20Code/Addition_Of_Two_8-bit_Numbers.asm) |
@@ -117,6 +119,8 @@ Implementation of fundamental arithmetic operations for 8-bit and 16-bit numbers
 
 Converting data between different number systems (Binary, Decimal, Hexadecimal).
 
+Date: September 13, 2020
+
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
 | 1 | BCD_To_Binary_Conversion.asm | Conversion | BCD to Binary conversion logic | [View](Experiment-2/Source%20Code/BCD_To_Binary_Conversion.asm) |
@@ -131,6 +135,8 @@ Converting data between different number systems (Binary, Decimal, Hexadecimal).
 
 String manipulation and character processing operations.
 
+Date: September 13, 2020
+
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
 | 1 | String_Manipulation.asm | String Ops | Length, copy, concatenate, compare | [View](Experiment-3/Source%20Code/String_Manipulation.asm) |
@@ -144,6 +150,8 @@ String manipulation and character processing operations.
 ## Experiment 4: Sorting Algorithms (2 Programs)
 
 Implementation of classic sorting techniques for array organization.
+
+Date: September 20, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -160,6 +168,8 @@ Implementation of classic sorting techniques for array organization.
 
 Searching for specific elements within arrays.
 
+Date: October 10, 2020
+
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
 | 1 | Linear_Search.asm | Linear Search | Sequential element search | [View](Experiment-5/Source%20Code/Linear_Search.asm) |
@@ -173,6 +183,8 @@ Searching for specific elements within arrays.
 ## Experiment 6: System Interfacing (1 Program)
 
 Interfacing with system hardware and BIOS interrupts.
+
+Date: October 10, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -188,6 +200,8 @@ Interfacing with system hardware and BIOS interrupts.
 
 Advanced mathematical computations.
 
+Date: October 15, 2020
+
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
 | 1 | Factorial_Calculation.asm | Factorial | Recursive/Iterative factorial | [View](Experiment-7/Source%20Code/Factorial_Calculation.asm) |
@@ -201,6 +215,8 @@ Advanced mathematical computations.
 ## Experiment 8: Macro Utilization (1 Program)
 
 Using macros for code reusability and modularity.
+
+Date: October 10, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
@@ -216,6 +232,8 @@ Using macros for code reusability and modularity.
 
 Dividing arrays based on specific criteria.
 
+Date: October 10, 2020
+
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
 | 1 | Even_Odd_Array_Splitter.asm | Array Split | Separate even/odd elements | [View](Experiment-9/Source%20Code/Even_Odd_Array_Splitter.asm) |
@@ -229,6 +247,8 @@ Dividing arrays based on specific criteria.
 ## Experiment 10: Logical Shifting (1 Program)
 
 Bit manipulation through logical shift operations.
+
+Date: October 10, 2020
 
 | # | Program | Algorithm | Description | Source Code |
 |:-:|:---|:---|:---|:-:|
