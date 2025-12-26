@@ -111,10 +111,10 @@ Academic assignments for comprehensive learning and practice:
 
 Lab classwork sessions conducted during the online course:
 
-| # | Resource | Date | Description |
-|:-:|:---|:-:|:---|
-| 1 | [Classwork 1](Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf) | October 20, 2020 | Initial assembly logic and program structuring |
-| 2 | [Classwork 2](Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf) | November 10, 2020 | Data manipulation and register-level exercises |
+| # | Resource | Description | Date |
+|:-:|:---|:---|:-:|
+| 1 | [Classwork 1](Classwork/Amey_B-50_MP_Lab_Classwork%20-%201.pdf) | Initial assembly logic and program structuring | October 20, 2020 |
+| 2 | [Classwork 2](Classwork/Amey_B-50_MP_Lab_Classwork%20-%202.pdf) | Data manipulation and register-level exercises | November 10, 2020 |
 
 ---
 
