@@ -233,9 +233,9 @@ Bit manipulation through logical shift operations.
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#microprocessor-lab)**
+  [↑ Back to Top](#microprocessor-lab)
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-basic-arithmetic-8-programs)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-code-conversions-1-program)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-string-handling-1-program)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-sorting-algorithms-2-programs)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-array-search-1-program)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-system-interfacing-1-program)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-mathematical-operations-1-program)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-macro-utilization-1-program)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-array-splitter-1-program)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-logical-shifting-1-program)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-basic-arithmetic-8-programs) &nbsp;·&nbsp; [Experiment 2](#experiment-2-code-conversions-1-program) &nbsp;·&nbsp; [Experiment 3](#experiment-3-string-handling-1-program) &nbsp;·&nbsp; [Experiment 4](#experiment-4-sorting-algorithms-2-programs) &nbsp;·&nbsp; [Experiment 5](#experiment-5-array-search-1-program) &nbsp;·&nbsp; [Experiment 6](#experiment-6-system-interfacing-1-program) &nbsp;·&nbsp; [Experiment 7](#experiment-7-mathematical-operations-1-program) &nbsp;·&nbsp; [Experiment 8](#experiment-8-macro-utilization-1-program) &nbsp;·&nbsp; [Experiment 9](#experiment-9-array-splitter-1-program) &nbsp;·&nbsp; [Experiment 10](#experiment-10-logical-shifting-1-program)
 
   <br>
 
@@ -247,10 +247,10 @@ Bit manipulation through logical shift operations.
 
 <div align="center">
 
-  ### [Microprocessor and Microprocessor Lab](https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB)
+  ### [Microprocessor and Microprocessor Lab](../)
 
   **CSL501 · Semester V · Computer Engineering**
 
-  *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
+  *University of Mumbai · Curated by **[Amey Thakur](https://github.com/Amey-Thakur)***
 
 </div>

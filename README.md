@@ -100,8 +100,8 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks |
 |:-:|:---|:---|:-:|:-:|
-| 1 | [**Assignment 1**](Assignments/Amey_B-50_MP_Assignment-1.pdf) | Architecture and Instruction Set Fundamentals | November 28, 2020 | 10/10 |
-| 2 | [**Assignment 2**](Assignments/Amey_B-50_MP_Assignment-2.pdf) | Interfacing and Advanced Microprocessors | November 28, 2020 | 10/10 |
+| 1 | [Assignment 1](Assignments/Amey_B-50_MP_Assignment-1.pdf) | Architecture and Instruction Set Fundamentals | November 28, 2020 | 10/10 |
+| 2 | [Assignment 2](Assignments/Amey_B-50_MP_Assignment-2.pdf) | Interfacing and Advanced Microprocessors | November 28, 2020 | 10/10 |
 
 **Topics Covered**: 8086 Architecture (Internal architecture, memory segmentation) · Instruction Set · Addressing Modes · Interfacing (8255 PPI, 8259 PIC) · Advanced Processors (80286, 80386, Pentium)
 
@@ -333,7 +333,7 @@ Course completion documentation with exit survey:
 
 | # | Document | Description |
 |:-:|:---|:---|
-| 1 | [**Submission Completion Report**](Amey_B-50_MP_Submission_Report.pdf) | Final coursework and lab submission report with exit survey |
+| 1 | [Submission Completion Report](Amey_B-50_MP_Submission_Report.pdf) | Final coursework and lab submission report with exit survey |
 
 ---
 
@@ -385,7 +385,7 @@ This repository and all linked academic content are made available under the **C
      ========================================================================================= -->
 ## About This Repository
 
-**Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur)  
+**Created & Maintained by**: **[Amey Thakur](https://github.com/Amey-Thakur)**  
 **Academic Journey**: Bachelor of Engineering in Computer Engineering (2018-2022)  
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
@@ -408,13 +408,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#microprocessor-and-microprocessor-lab)**
+  [↑ Back to Top](#microprocessor-and-microprocessor-lab)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Classwork](#classwork)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#microprocessor-laboratory)** &nbsp;·&nbsp; **[Online Exam](#online-exam)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Classwork](#classwork) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#microprocessor-laboratory) &nbsp;·&nbsp; [Online Exam](#online-exam) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[Microprocessor Lab](Microprocessor%20Lab/)** &nbsp;·&nbsp; **[8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
+  🔬 **[Microprocessor Lab](Microprocessor%20Lab/)** &nbsp;·&nbsp; 💾 **[8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
 </div>
 
