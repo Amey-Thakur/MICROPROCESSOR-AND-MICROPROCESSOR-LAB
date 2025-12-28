@@ -1,0 +1,46 @@
+# ALL REPOSITORIES
+# ----------------
+# General
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+*.tmp
+*.bak
+*~
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Assembly / Microprocessor Artifacts
+*.obj
+*.o
+*.exe
+*.com
+*.map
+*.lst
+*.hex
+*.bin
+*.sym
+*.rel
+*.prn
+*.err
+*.tlog
+
+# Simulators (Common 8085/8086 tools)
+*.tasm
+*.masm
+*.nasm
+# Keep source files!
+
+# Git
+*.orig
