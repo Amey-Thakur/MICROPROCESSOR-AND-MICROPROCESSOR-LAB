@@ -1,25 +1,21 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Microprocessor - Academic Repository
+# Specialized .gitignore for assembly and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
-*.code-workspace
-
-# JetBrains
 .idea/
+*.swp
+*.swo
+*~
 *.iml
+*.code-workspace
 
 # Assembly / Microprocessor Artifacts
 *.obj
@@ -36,11 +32,23 @@ $RECYCLE.BIN/
 *.err
 *.tlog
 
-# Simulators (Common 8085/8086 tools)
+# Simulators & Tools
+# (TASM, MASM, NASM, DOSBox)
 *.tasm
 *.masm
 *.nasm
-# Keep source files!
+*.conf
+stdout.txt
+stderr.txt
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+node_modules/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
