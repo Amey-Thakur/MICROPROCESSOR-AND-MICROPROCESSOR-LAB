@@ -21,6 +21,12 @@
 
 ---
 
+<div align="center">
+
+  [![8086 Programs](https://img.shields.io/badge/8086%20Programs-161%20Assembly%20Programs-007bff?style=flat&logo=github)](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)
+
+</div>
+
 > [!TIP]
 > **Additional Learning Resource**: For more 8086 assembly programs beyond these experiments, check out my [8086 Assembly Language Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS) repository — 161 programs I developed during this course for self-learning, covering arithmetic, conversions, sorting, searching, and more.
 
