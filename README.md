@@ -9,10 +9,10 @@
 
   ### CSC501 & CSL501 · Semester V · Computer Engineering
 
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-6E7681.svg)](LICENSE)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Microprocessor (MP) and Microprocessor Laboratory (MP Lab), covering 8086 architecture, assembly language programming, system interfacing, and practical implementations.**
 
@@ -147,7 +147,7 @@ The laboratory component (CSL501) focuses on hands-on implementation of various 
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](Microprocessor%20Lab/) &nbsp; [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-blueviolet.svg)](Microprocessor%20Lab/) &nbsp; [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](Microprocessor%20Lab/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-795548.svg)](Microprocessor%20Lab/) &nbsp; [![Language](https://img.shields.io/badge/Language-Assembly%20%7C%20C-8250DF.svg)](Microprocessor%20Lab/) &nbsp; [![Status](https://img.shields.io/badge/Status-Complete-2EA043.svg)](Microprocessor%20Lab/)
 
   **[💾 8086 Assembly Programs](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)**
 
