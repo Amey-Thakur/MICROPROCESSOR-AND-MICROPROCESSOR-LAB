@@ -1,0 +1,79 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "additionalType": "https://schema.org/LearningResource",
+    "name": "MICROPROCESSOR-AND-MICROPROCESSOR-LAB",
+    "description": "CSC501: Microprocessor [MP] & CSL501: Microprocessor Lab [MP Lab] | TE Semester V | Computer Engineering",
+    "identifier": "MICROPROCESSOR-AND-MICROPROCESSOR-LAB",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+    "author": [
+        {
+            "@type": "Person",
+            "givenName": "Amey",
+            "familyName": "Thakur",
+            "id": "https://orcid.org/0000-0001-5644-1575",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Mega",
+            "familyName": "Satish",
+            "id": "https://orcid.org/0000-0002-1844-9557",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Terna Engineering College"
+            }
+        }
+    ],
+    "dateCreated": "2021-07-28",
+    "dateReleased": "2021-01-19",
+    "codeRepository": "https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB",
+    "isPartOf": "https://github.com/Amey-Thakur/COMPUTER-ENGINEERING",
+    "developmentStatus": "complete",
+    "applicationCategory": "Academic Course Archive",
+    "educationalLevel": "Undergraduate, Third Year, Semester V",
+    "keywords": [
+        "8086",
+        "8086 Programs",
+        "Assembly Language",
+        "Assembly Language Programming",
+        "Computer Engineering",
+        "Computer Science",
+        "Emu8086",
+        "Engineering",
+        "Microprocessor",
+        "Microprocessor Lab",
+        "Microprocessor Programming",
+        "Reference Books",
+        "Tasm",
+        "Textbooks",
+        "University Of Mumbai",
+        "CSC501",
+        "CSL501",
+        "MP",
+        "MP Lab",
+        "University of Mumbai",
+        "Mumbai University",
+        "Terna Engineering College",
+        "Navi Mumbai",
+        "India",
+        "B.E. Computer Engineering",
+        "TE Semester V",
+        "Semester V",
+        "Assignments",
+        "Question Papers",
+        "Syllabus",
+        "CBCGS",
+        "TE Comps",
+        "Amey Thakur",
+        "amey",
+        "ameythakur",
+        "amey-thakur",
+        "ameyarc",
+        "Mega Satish",
+        "megasatish"
+    ]
+}

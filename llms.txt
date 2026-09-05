@@ -1,0 +1,40 @@
+# Microprocessor and Microprocessor Lab
+
+> CSC501: Microprocessor [MP] & CSL501: Microprocessor Lab [MP Lab] | TE
+> Semester V | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester V
+Course codes: CSC501, CSL501
+Licence: CC BY 4.0, attribution required
+Repository created: 28 July 2021
+Work dated: 19 January 2021
+
+## What is in this repository
+
+- Assignments, 2 files
+- Classwork, 2 files
+- Microprocessor Lab, 29 files
+- Online Exam, 5 files
+- Question Papers, 3 files
+- Quizzes, 7 files
+- Reference Books, 9 files
+- Semester Exam, 1 file
+- Syllabus, 2 files
+- Amey_B-50_MP_Submission_Report.pdf
+
+## Subject terms
+
+8086, 8086-programs, assembly-language, assembly-language-programming,
+computer-engineering, computer-science, emu8086, engineering,
+microprocessor, microprocessor-lab, microprocessor-programming,
+reference-books, tasm, textbooks, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/MICROPROCESSOR-AND-MICROPROCESSOR-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
